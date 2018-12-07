@@ -2,7 +2,7 @@ package string;
 
 /**
  * 题目:最长公共前缀,编写一个方法来查找字符串数组的最长公共前缀
- * 来源:字节跳动专栏
+ * 来源:leetcode字节跳动专栏
  */
 public class LongestCommonPrefix {
 

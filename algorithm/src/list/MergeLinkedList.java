@@ -3,7 +3,8 @@ package list;
 import java.util.Scanner;
 
 /**
- * 合并两个有序链表
+ * 题目:合并两个有序链表
+ * 来源:leetcode字节跳动专栏
  */
 public class MergeLinkedList {
 

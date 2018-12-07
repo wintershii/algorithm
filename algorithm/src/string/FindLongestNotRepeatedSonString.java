@@ -4,7 +4,7 @@ import java.util.*;
 
 /**
  * 题目:无重复字符的最长子串
- * 来源:字节跳动专栏
+ * 来源:leetcode字节跳动专栏
  *
  */
 public class FindLongestNotRepeatedSonString {
