@@ -5,6 +5,10 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
+/**
+ * 题目：合并区间
+ * 来源:leetcode字节跳动专栏
+ */
 public class MergeGap {
     public static void main(String[] args) {
 

@@ -3,6 +3,10 @@ package array;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * 题目：最长连续序列
+ * 来源:leetcode字节跳动专栏
+ */
 public class FindLongestConsecutive {
     public static void main(String[] args) {
         System.out.println(new FindLongestConsecutive().longestConsecutive(new int[]{100, 4, 200, 1, 3, 2}));
