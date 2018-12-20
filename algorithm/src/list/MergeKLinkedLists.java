@@ -30,6 +30,9 @@ public class MergeKLinkedLists {
      * @return
      */
     public ListNode mergeKLists(ListNode[] lists) {
+        if (lists == null || lists.length == 0) {
+            return null;
+        }
         ListNode result = null;
 
         for (int i = 0; i < lists.length; i++) {
