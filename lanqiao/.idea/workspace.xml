@@ -2,11 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86c5fe1b-5674-496e-99b2-083ecf044d04" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FindKAtom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IncreaseThreeArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ProtectPost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithm/src/tencent/_01huobi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithm/src/tencent/_02shulie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithm/src/tencent/_03caiquan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithm/src/tencent/_04daqiang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithm/src/toutiao/_03yuesefu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithm/src/toutiao/_04jianshengzi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_2013/_2013_07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_2013/_2013_08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_2013/_2013_09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/AllRank.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../algorithm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithm/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/out/production/algorithm/list/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/out/production/algorithm/list/TwoNumSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithm/out/production/algorithm/list/TwoNumSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/IncreaseThreeArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IncreaseThreeArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProtectPost.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProtectPost.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IncreaseThreeArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/IncreaseThreeArray.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,34 +32,39 @@
     <session id="929617459">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="4" />
+          <entry key="java" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="4" />
+          <entry key="JAVA" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1442" />
+          <entry key="java" value="2774" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1442" />
+          <entry key="JAVA" value="2774" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor" />
@@ -56,8 +73,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/FindKAtom.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="25" column="48" lean-forward="true" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
+            <state relative-caret-position="475">
+              <caret line="25" column="48" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -65,8 +82,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/IncreaseThreeArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1606">
-              <caret line="73" column="27" selection-start-line="73" selection-start-column="27" selection-end-line="73" selection-end-column="27" />
+            <state relative-caret-position="1501">
+              <caret line="80" column="25" selection-start-line="80" selection-start-column="25" selection-end-line="80" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -74,11 +91,50 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/practice/AllRank.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/_2013/_2013_07.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="608">
+              <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/_2013/_2013_08.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="555">
+              <caret line="40" column="23" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/_2013/_2013_09.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ProtectPost.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+            <state relative-caret-position="304">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -89,8 +145,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/Arrays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="1502" column="66" lean-forward="true" selection-start-line="1502" selection-start-column="66" selection-end-line="1502" selection-end-column="66" />
+            <state relative-caret-position="27493">
+              <caret line="1502" column="66" selection-start-line="1502" selection-start-column="66" selection-end-line="1502" selection-end-column="66" />
             </state>
           </provider>
         </entry>
@@ -116,6 +172,11 @@
         <option value="$PROJECT_DIR$/src/main/java/IncreseThreeArray.java" />
         <option value="$PROJECT_DIR$/src/main/java/IncreaseThreeArray.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProtectPost.java" />
+        <option value="$PROJECT_DIR$/src/main/java/practice/AllRank.java" />
+        <option value="$PROJECT_DIR$/src/main/java/_2013/_07.java" />
+        <option value="$PROJECT_DIR$/src/main/java/_2013/_2013_07.java" />
+        <option value="$PROJECT_DIR$/src/main/java/_2013/_2013_08.java" />
+        <option value="$PROJECT_DIR$/src/main/java/_2013/_2013_09.java" />
       </list>
     </option>
   </component>
@@ -161,18 +222,27 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="lanqiao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lanqiao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="_2013" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547652200209" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552922627437" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -188,7 +258,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IncreaseThreeArray">
+  <component name="RunManager" selected="Application._2013_08">
     <configuration name="FindKAtom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FindKAtom" />
       <module name="lanqiao" />
@@ -203,12 +273,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_2013_07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_2013._2013_07" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_2013.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_2013_08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_2013._2013_08" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_2013.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.FindKAtom" />
       <item itemvalue="Application.IncreaseThreeArray" />
+      <item itemvalue="Application._2013_07" />
+      <item itemvalue="Application._2013_08" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._2013_08" />
+        <item itemvalue="Application._2013_07" />
         <item itemvalue="Application.IncreaseThreeArray" />
         <item itemvalue="Application.FindKAtom" />
       </list>
@@ -224,45 +324,49 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547646560884</updated>
-      <workItem from="1547646562920" duration="5755000" />
+      <workItem from="1547646562920" duration="6355000" />
+      <workItem from="1547691338141" duration="1786000" />
+      <workItem from="1547974552834" duration="78000" />
+      <workItem from="1552909379370" duration="3382000" />
+      <workItem from="1552921511301" duration="1307000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5755000" />
+    <option name="totallyTimeSpent" value="12908000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="988" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18463181" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14407684" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.32945284" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32945284" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.36088476" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35972062" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3993015" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32945284" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3282887" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -277,22 +381,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/FindKAtom.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="48" lean-forward="true" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="1502" column="66" lean-forward="true" selection-start-line="1502" selection-start-column="66" selection-end-line="1502" selection-end-column="66" />
+        <state relative-caret-position="475">
+          <caret line="25" column="48" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/IncreaseThreeArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1606">
-          <caret line="73" column="27" selection-start-line="73" selection-start-column="27" selection-end-line="73" selection-end-column="27" />
+        <state relative-caret-position="1501">
+          <caret line="80" column="25" selection-start-line="80" selection-start-column="25" selection-end-line="80" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/practice/AllRank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/_2013/_2013_07.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -301,11 +415,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ProtectPost.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        <state relative-caret-position="304">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27493">
+          <caret line="1502" column="66" selection-start-line="1502" selection-start-column="66" selection-end-line="1502" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/_2013/_2013_08.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="40" column="23" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/_2013/_2013_09.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>

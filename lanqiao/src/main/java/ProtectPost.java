@@ -17,10 +17,10 @@ public class ProtectPost {
             x[i][1] = scan.nextInt();
         }
 
-        for (int i = 0; i < n; i++) {
-            int time =
-            for ()
-        }
+//        for (int i = 0; i < n; i++) {
+//            int time =
+//            for ()
+//        }
     }
 
 

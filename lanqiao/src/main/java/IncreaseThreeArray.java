@@ -56,19 +56,29 @@ public class IncreaseThreeArray {
             int tmp = b[i];
             int x1 = 0;
             int x2 = 0;
-            for (int j = 0; j < n; j++) {
+            int o1 = 0;
+            int o2 = 0;
+            for (int j = o1; j < n; j++) {
                 if (tmp > a[j]) {
                     x1++;
+                    o1++;
                     continue;
                 }
                 break;
             }
-            for (int j = 0; j < n; j++) {
+            if (i > 0) {
+                x1 += o1;
+            }
+            for (int j = o2; j < n; j++) {
                 if (tmp > c[j]) {
                     x2++;
+                    o2++;
                     continue;
                 }
                 break;
+            }
+            if (i > 0) {
+                x2 += o2;
             }
             x2 = n - x2;
             time = x1 * x2;
