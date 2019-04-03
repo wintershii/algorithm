@@ -1,14 +1,18 @@
 package leetcode;
 
+import java.util.Arrays;
+
 public class LongestPalindrome_5 {
 
     public static void main(String[] args) {
-        System.out.println(new LongestPalindrome_5().mySolve("babadcccc"));
+        System.out.println(new LongestPalindrome_5().chaoMethod("a"));
     }
 
 
     /**
-     * 自己写的暴力解法，枚举所有子串，依次判定
+     * 自己写的暴力解法，枚举所有子串，依次判定(92/103)
+     * 加上了动态规划,当出现一个子串是回文时,继续判断其两头是不是回文串(94/103),貌似没有什么卵用...
+     *
      * @param s
      * @return
      */
@@ -19,17 +23,20 @@ public class LongestPalindrome_5 {
         for (int i = 0; i < len; ++i) {
             for (int j = i+1; j <= len; ++j) {
                 String tmp = s.substring(i,j);
-                if (book[i][j] == false && check(tmp)) {
+                if (!book[i][j] && check(tmp)) {
                     book[i][j] = true;
                     if (j-i > ans.length()) {
                         ans = tmp;
                     }
-                    while (i > 0 && j < len - 1 && s.charAt(i-1) == s.charAt(j+1)) {
-                        ans = s.substring(i-1,j+1);
-                        System.out.println(ans);
-                        book[i-1][j+1] = true;
-                        --i;
-                        ++j;
+                    int p = i-1;
+                    int q = j+1;
+                    while (p >= 0 && q < len && !book[p][q] && s.charAt(p) == s.charAt(q-1)) {
+                        if (q - p > ans.length()) {
+                            ans = s.substring(p,q);
+                        }
+                        book[p][q] = true;
+                        --p;
+                        ++q;
                     }
                 }
             }
@@ -37,18 +44,21 @@ public class LongestPalindrome_5 {
         return ans;
     }
 
-    public String longestPalindrome(String s) {
-        String ans = s.substring(0,1);
-        int i, j;
-        for (i = 0, j = 2; i < s.length() && j < s.length(); ) {
-            String tmp = s.substring(i,j);
-            if (!check(tmp)) {
-                ++j;
-            } else {
-                if (j - i > ans.length()) {
+    /**
+     * 超哥的解法
+     * @param s
+     * @return
+     */
+    public String chaoMethod(String s) {
+        int result = 0;
+        String ans = "";
+        for (int i = 0; i < s.length(); ++i) {
+            for (int j = i+result; j <  s.length(); ++j) {
+                String tmp = s.substring(i,j+1);
+                if (check(tmp) && tmp.length() > result) {
+                    result = tmp.length();
                     ans = tmp;
                 }
-                ++i;
             }
         }
         return ans;
