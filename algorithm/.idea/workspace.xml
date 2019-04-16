@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="876a0187-0bf6-45e9-8d4a-1df2ccb6760c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ali/Pig_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/LetterCombinations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/FourNum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/TwoSum_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/TwoSum_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/ThreeNumClosest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/ThreeNumClosest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/TwoSum_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/TwoSum_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/ThreeNumClosest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/ThreeNumClosest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/LetterCombinations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/LetterCombinations.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,13 +46,13 @@
     <session id="-588745082">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="40" />
-          <entry key="project.open.time.1" value="7" />
+          <entry key="project.closed" value="42" />
+          <entry key="project.open.time.1" value="8" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="3" />
-          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.16" value="3" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.19" value="1" />
@@ -66,27 +64,27 @@
           <entry key="project.open.time.40" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="43" />
+          <entry key="project.opened" value="45" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="100" />
+          <entry key="java" value="101" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="100" />
+          <entry key="JAVA" value="101" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="28106" />
+          <entry key="java" value="29039" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="28106" />
+          <entry key="JAVA" value="29039" />
         </counts>
       </usages-collector>
     </session>
@@ -140,7 +138,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/ThreeNumClosest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
+            <state relative-caret-position="304">
               <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -149,11 +147,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/LetterCombinations.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="438">
+              <caret line="26" column="24" lean-forward="true" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#174#175#0" expanded="true" />
+                <element signature="e#210#211#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/FourNum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="24" column="41" lean-forward="true" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -164,7 +176,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/array/ThreeNumSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
+            <state relative-caret-position="323">
               <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
             </state>
           </provider>
@@ -173,7 +185,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/TwoSum_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
+            <state relative-caret-position="779">
               <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -185,7 +197,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ali/Pig_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="535">
+            <state relative-caret-position="703">
               <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -209,7 +221,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/list/LIstNode.java" />
         <option value="$PROJECT_DIR$/src/string/LongestCommonPrefix.java" />
         <option value="$PROJECT_DIR$/src/list/ReverseLinkedList.java" />
         <option value="$PROJECT_DIR$/src/list/MergeLinkedList.java" />
@@ -260,6 +271,7 @@
         <option value="$PROJECT_DIR$/src/leetcode/ThreeNumClosest.java" />
         <option value="$PROJECT_DIR$/src/leetcode/LetterCombbinations.java" />
         <option value="$PROJECT_DIR$/src/leetcode/LetterCombinations.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/FourNum.java" />
       </list>
     </option>
   </component>
@@ -293,6 +305,12 @@
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -305,7 +323,7 @@
     <property name="SearchEverywhereHistoryKey" value="[&#9;null&#9;null&#10;{&#9;null&#9;null&#10;**&#9;FILE&#9;file:///home/shidongxuan/Algorithm/algorithm/src/array/FindLongestIncresedArray.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555336650982" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555419731827" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -322,9 +340,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ThreeNumClosest">
-    <configuration name="GetWater_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.GetWater_11" />
+  <component name="RunManager" selected="Application.FourNum">
+    <configuration name="FourNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.FourNum" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LetterCombinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.LetterCombinations" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -342,19 +373,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ali.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Roman_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.Roman_12" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -389,19 +407,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.GetWater_11" />
-      <item itemvalue="Application.Roman_12" />
       <item itemvalue="Application.ThreeNumClosest" />
       <item itemvalue="Application.Pig_1" />
       <item itemvalue="Application.TwoSum_1" />
+      <item itemvalue="Application.LetterCombinations" />
+      <item itemvalue="Application.FourNum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FourNum" />
+        <item itemvalue="Application.LetterCombinations" />
         <item itemvalue="Application.ThreeNumClosest" />
         <item itemvalue="Application.TwoSum_1" />
         <item itemvalue="Application.Pig_1" />
-        <item itemvalue="Application.Roman_12" />
-        <item itemvalue="Application.GetWater_11" />
       </list>
     </recent_temporary>
   </component>
@@ -458,12 +476,14 @@
       <workItem from="1554986187140" duration="2296000" />
       <workItem from="1554991369121" duration="370000" />
       <workItem from="1555069068065" duration="4266000" />
-      <workItem from="1555330576313" duration="4782000" />
+      <workItem from="1555330576313" duration="4861000" />
+      <workItem from="1555404287281" duration="24000" />
+      <workItem from="1555416263007" duration="3261000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131271000" />
+    <option name="totallyTimeSpent" value="134635000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="0" width="1920" height="1080" extended-state="6" />
@@ -474,10 +494,10 @@
       <window_info id="UI Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.49920255" visible="true" weight="0.18089648" />
+      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.49920255" visible="true" weight="0.18516542" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.36487907" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36487907" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.38766006" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -505,13 +525,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/list/SortList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/list/DetectCircleList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
@@ -813,10 +826,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ali/Pig_1.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/ThreeNumClosest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="535">
-          <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+        <state relative-caret-position="304">
+          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -825,14 +838,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/array/ThreeNumSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
+        <state relative-caret-position="323">
           <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/TwoSum_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
+        <state relative-caret-position="779">
           <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -840,10 +853,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/ThreeNumClosest.java">
+    <entry file="file://$PROJECT_DIR$/src/ali/Pig_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        <state relative-caret-position="703">
+          <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -852,8 +865,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/LetterCombinations.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="438">
+          <caret line="26" column="24" lean-forward="true" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/FourNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="24" column="41" lean-forward="true" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
