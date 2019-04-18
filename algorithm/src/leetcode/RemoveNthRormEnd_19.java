@@ -36,7 +36,7 @@ public class RemoveNthRormEnd_19{
         return head;
     }
 
-    private ListNode create(int[] arr) {
+    public ListNode create(int[] arr) {
         ListNode head = new ListNode(arr[0]);;
         ListNode pre = head;
         for (int i = 1; i < arr.length; i++) {
@@ -48,7 +48,7 @@ public class RemoveNthRormEnd_19{
         return head;
     }
 
-    private void print(ListNode head) {
+    public void print(ListNode head) {
         while (head != null) {
             System.out.print(head.val + " ");
             head = head.next;
