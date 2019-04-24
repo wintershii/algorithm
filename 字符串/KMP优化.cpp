@@ -49,7 +49,7 @@ void KMP(char str[],char son[],int pos)
 			j = next[j] - 1;
 		}
 	}
-	if(j = len2)
+	if(j == len2)
 	{
 		if(pos >= len1-len2 || i >= len1)
 		{
