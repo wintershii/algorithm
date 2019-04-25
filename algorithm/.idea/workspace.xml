@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="876a0187-0bf6-45e9-8d4a-1df2ccb6760c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/Divide_29.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/NextPermutation_31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/StrStr_28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/SearchInsert_35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/SerachRange_34.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../字符串/KMP优化.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../字符串/KMP优化.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,7 +45,7 @@
     <session id="-588745082">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="49" />
+          <entry key="project.closed" value="50" />
           <entry key="project.open.time.1" value="8" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
@@ -58,7 +56,7 @@
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.2" value="10" />
-          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.20" value="2" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.25" value="1" />
@@ -66,51 +64,33 @@
           <entry key="project.open.time.40" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="52" />
+          <entry key="project.opened" value="53" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="111" />
+          <entry key="java" value="113" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="111" />
+          <entry key="JAVA" value="113" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="33356" />
+          <entry key="java" value="34122" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="33356" />
+          <entry key="JAVA" value="34122" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/SwapPairs.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/RemoveDuplicates_26.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/RemoveElement_27.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -138,8 +118,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/Divide_29.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="34" column="23" lean-forward="true" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+            <state relative-caret-position="608">
+              <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
               <folding>
                 <element signature="e#87#88#0" expanded="true" />
                 <element signature="e#161#162#0" expanded="true" />
@@ -148,11 +128,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/NextPermutation_31.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+            <state relative-caret-position="589">
+              <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/SerachRange_34.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="722">
+              <caret line="38" column="30" lean-forward="true" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/SearchInsert_35.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="82" selection-start-line="4" selection-start-column="82" selection-end-line="4" selection-end-column="82" />
             </state>
           </provider>
         </entry>
@@ -214,9 +212,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/array/SearchCircleSortArray.java" />
-        <option value="$PROJECT_DIR$/src/array/FindLongestIncresedArray.java" />
-        <option value="$PROJECT_DIR$/src/array/Interval.java" />
         <option value="$PROJECT_DIR$/src/array/TheNumerKOfArray.java" />
         <option value="$PROJECT_DIR$/src/array/MergeGap.java" />
         <option value="$PROJECT_DIR$/src/array/FindLongestConsecutive.java" />
@@ -265,6 +260,9 @@
         <option value="$PROJECT_DIR$/src/leetcode/StrStr_28.java" />
         <option value="$PROJECT_DIR$/src/leetcode/Divide_29.java" />
         <option value="$PROJECT_DIR$/src/leetcode/NextPermutation_31.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/SerachRange_34.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/SearchInsert.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/SearchInsert_35.java" />
       </list>
     </option>
   </component>
@@ -285,6 +283,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -307,7 +306,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -315,7 +313,7 @@
     <property name="SearchEverywhereHistoryKey" value="[&#9;null&#9;null&#10;{&#9;null&#9;null&#10;**&#9;FILE&#9;file:///home/shidongxuan/Algorithm/algorithm/src/array/FindLongestIncresedArray.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556113463369" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556168946822" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -332,7 +330,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NextPermutation_31">
+  <component name="RunManager" selected="Application.SearchInsert_35">
     <configuration name="Divide_29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.Divide_29" />
       <module name="algorithm" />
@@ -359,8 +357,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.RemoveDuplicates" />
+    <configuration name="SearchInsert_35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.SearchInsert_35" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -372,8 +370,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveElement_27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.RemoveElement_27" />
+    <configuration name="SerachRange_34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.SerachRange_34" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -399,19 +397,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.RemoveDuplicates" />
-      <item itemvalue="Application.RemoveElement_27" />
       <item itemvalue="Application.StrStr_28" />
       <item itemvalue="Application.Divide_29" />
       <item itemvalue="Application.NextPermutation_31" />
+      <item itemvalue="Application.SerachRange_34" />
+      <item itemvalue="Application.SearchInsert_35" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SearchInsert_35" />
+        <item itemvalue="Application.SerachRange_34" />
         <item itemvalue="Application.NextPermutation_31" />
         <item itemvalue="Application.Divide_29" />
         <item itemvalue="Application.StrStr_28" />
-        <item itemvalue="Application.RemoveElement_27" />
-        <item itemvalue="Application.RemoveDuplicates" />
       </list>
     </recent_temporary>
   </component>
@@ -477,12 +475,13 @@
       <workItem from="1555815408705" duration="616000" />
       <workItem from="1555941802557" duration="2198000" />
       <workItem from="1555983801085" duration="34000" />
-      <workItem from="1556106944724" duration="5721000" />
+      <workItem from="1556106944724" duration="5904000" />
+      <workItem from="1556167181071" duration="1689000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="153597000" />
+    <option name="totallyTimeSpent" value="155469000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="0" width="1920" height="1080" extended-state="6" />
@@ -494,10 +493,10 @@
       <window_info id="UI Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.49920255" visible="true" weight="0.20010673" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.49920255" visible="true" weight="0.2022412" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49893278" visible="true" weight="0.25446898" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49893278" weight="0.3322818" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4994664" weight="0.47634068" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -525,20 +524,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/toutiao/_04jianshengzi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/Interval.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/array/GetRain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -836,6 +821,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Divide_29.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+          <folding>
+            <element signature="e#87#88#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -870,21 +866,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/Divide_29.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/NextPermutation_31.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="34" column="23" lean-forward="true" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
-          <folding>
-            <element signature="e#87#88#0" expanded="true" />
-            <element signature="e#161#162#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="589">
+          <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/NextPermutation_31.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/SerachRange_34.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        <state relative-caret-position="722">
+          <caret line="38" column="30" lean-forward="true" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/SearchInsert_35.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="82" selection-start-line="4" selection-start-column="82" selection-end-line="4" selection-end-column="82" />
         </state>
       </provider>
     </entry>
