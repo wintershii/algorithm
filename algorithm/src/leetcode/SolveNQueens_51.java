@@ -15,6 +15,30 @@ public class SolveNQueens_51 {
         return list;
     }
 
+
+    private int count = 0;
+    public int totalNQueens(int n) {
+        int[] arr = new int[n];
+        putQueen2(0,n,arr);
+        return count;
+    }
+
+
+
+    public void putQueen2(int row, int n, int[] arr) {
+        if (row == n) {
+            count++;
+            return;
+        }
+        for (int i = 0; i < n; i++) {
+            arr[row] = i;
+            if (check(arr,row)) {
+                putQueen2(row+1,n,arr);
+            }
+        }
+    }
+
+
     public void putQueen(List<List<String>> list, int row, int n, int[] arr) {
         if (row == n) {
             List<String> strings = new ArrayList<>();
