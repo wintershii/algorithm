@@ -36,7 +36,6 @@ public class HasPathSum_112 {
             return root.val == sum;
         }
 
-
     }
 
 /*    public boolean hasValue(TreeNode root, int value) {
