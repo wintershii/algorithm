@@ -59,6 +59,34 @@ public class Generate_118 {
     }
 
     public static void main(String[] args) {
-        System.out.println(new Generate_118().generate(5));
+        System.out.println(new Generate_118().getRow(3));
+    }
+
+
+    public List<Integer> getRow(int rowIndex) {
+        if (rowIndex == 0) {
+            List<Integer> list = new ArrayList<>();
+            list.add(1);
+            return list;
+        }
+        int[][] array = new int[rowIndex+1][rowIndex+1];
+        array[0][0] = 1;
+        for (int i = 1; i < rowIndex+1; i++) {
+            for (int j = 0; j < rowIndex+1; j++) {
+                if (j == 0 || i == j) {
+                    array[i][j] = 1;
+                } else {
+                    array[i][j] = array[i-1][j-1] + array[i-1][j];
+                }
+
+            }
+        }
+        List<Integer> res = new ArrayList<>();
+        for (int i = 0; i < rowIndex+1; i++) {
+            if (array[rowIndex][i] != 0) {
+                res.add(array[rowIndex][i]);
+            }
+        }
+        return res;
     }
 }
