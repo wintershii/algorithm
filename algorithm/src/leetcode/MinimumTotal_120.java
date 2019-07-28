@@ -35,7 +35,7 @@ public class MinimumTotal_120 {
         if (triangle == null || triangle.size() == 0) {
             return 0;
         }
-        int dp[] = new int[triangle.size()+!];
+        int dp[] = new int[triangle.size()+1];
         for (int i = triangle.size() - 1; i >= 0; i--) {
             List<Integer> list = triangle.get(i);
             for (int j = 0; j < list.size(); j++) {
