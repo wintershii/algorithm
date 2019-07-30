@@ -28,15 +28,15 @@ package leetcode;
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
 
-class Node {
+class Node1 {
     public int val;
-    public Node left;
-    public Node right;
-    public Node next;
+    public Node1 left;
+    public Node1 right;
+    public Node1 next;
 
-    public Node() {}
+    public Node1() {}
 
-    public Node(int _val,Node _left,Node _right,Node _next) {
+    public Node1(int _val,Node1 _left,Node1 _right,Node1 _next) {
         val = _val;
         left = _left;
         right = _right;
@@ -45,7 +45,7 @@ class Node {
 };
 
 public class Connect_116 {
-    public Node connect(Node root) {
+    public Node1 connect(Node1 root) {
         if(root == null || root.left == null) {
             return root;
         }
