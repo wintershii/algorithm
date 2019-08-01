@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="876a0187-0bf6-45e9-8d4a-1df2ccb6760c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/PreorderTraversal_144.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/ReorderList_143.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/WordBreak_139.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aaa/EvalRPN_150.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aaa/InsertionSortList_147.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aaa/LRUCache.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Connect_116.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Connect_116.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/SumNumbers_129.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/SumNumbers_129.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -121,32 +124,33 @@
     <session id="-1666425734">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="7" />
+          <entry key="java" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="7" />
+          <entry key="JAVA" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1636" />
+          <entry key="java" value="2730" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1636" />
+          <entry key="JAVA" value="2730" />
         </counts>
       </usages-collector>
     </session>
@@ -154,45 +158,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/IsPalindrome_125.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="931">
-              <caret line="49" column="24" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
-              <folding>
-                <element signature="e#406#407#0" expanded="true" />
-                <element signature="e#491#492#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/SumNumbers_129.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="817">
-              <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="16" />
-              <folding>
-                <element signature="e#764#765#0" expanded="true" />
-                <element signature="e#833#834#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/SingleNumber_136.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/SingleNumber_137.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="931">
-              <caret line="49" selection-start-line="49" selection-end-line="49" />
+            <state relative-caret-position="155">
+              <caret line="44" selection-start-line="44" selection-end-line="44" />
             </state>
           </provider>
         </entry>
@@ -233,11 +202,46 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/PreorderTraversal_144.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="30" column="8" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="48" selection-end-column="19" />
+            <state relative-caret-position="324">
+              <caret line="25" column="69" selection-start-line="25" selection-start-column="69" selection-end-line="25" selection-end-column="69" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/aaa/LRUCache.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="457">
+              <caret line="50" column="31" lean-forward="true" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1111#1112#0" expanded="true" />
+                <element signature="e#1145#1146#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/aaa/InsertionSortList_147.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="49" column="34" lean-forward="true" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/aaa/EvalRPN_150.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="647">
+              <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -269,9 +273,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode/DeleteDuplicates2_82.java" />
-        <option value="$PROJECT_DIR$/src/acm/pRACTICE.java" />
-        <option value="$PROJECT_DIR$/src/acm/Practice.java" />
         <option value="$PROJECT_DIR$/src/leetcode/Partition.java" />
         <option value="$PROJECT_DIR$/src/leetcode/Partition_86.java" />
         <option value="$PROJECT_DIR$/src/leetcode/Merge_88.java" />
@@ -311,7 +312,6 @@
         <option value="$PROJECT_DIR$/src/leetcode/MaxProfit_122.java" />
         <option value="$PROJECT_DIR$/src/leetcode/IsPalindrome_125.java" />
         <option value="$PROJECT_DIR$/src/leetcode/LadderLength_127.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/SumNumbers_129.java" />
         <option value="$PROJECT_DIR$/src/leetcode/SingleNumber_137.java" />
         <option value="$PROJECT_DIR$/src/leetcode/Connect_116.java" />
         <option value="$PROJECT_DIR$/src/leetcode/CopyRandomList_138.java" />
@@ -320,6 +320,10 @@
         <option value="$PROJECT_DIR$/src/leetcode/ReorderList_143.java" />
         <option value="$PROJECT_DIR$/src/leetcode/PreorderTraversal.java" />
         <option value="$PROJECT_DIR$/src/leetcode/PreorderTraversal_144.java" />
+        <option value="$PROJECT_DIR$/src/aaa/LRUCache.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/SumNumbers_129.java" />
+        <option value="$PROJECT_DIR$/src/aaa/InsertionSortList_147.java" />
+        <option value="$PROJECT_DIR$/src/aaa/EvalRPN_150.java" />
       </list>
     </option>
   </component>
@@ -363,28 +367,34 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="aaa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="aaa" type="462c0819:PsiDirectoryNode" />
+              <item name="InsertionSortList_147.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Connect_116.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="[&#9;null&#9;null&#10;{&#9;null&#9;null&#10;**&#9;FILE&#9;file:///home/shidongxuan/Algorithm/algorithm/src/array/FindLongestIncresedArray.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564577175363" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564662580050" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -401,26 +411,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IsPalindrome_125">
-    <configuration name="Demo_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="acm.Demo_1" />
+  <component name="RunManager" selected="Application.EvalRPN_150">
+    <configuration name="EvalRPN_150" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aaa.EvalRPN_150" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="acm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="acm.Demo_2" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="acm.*" />
+          <option name="PATTERN" value="aaa.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -434,6 +431,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertionSortList_147" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aaa.InsertionSortList_147" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aaa.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -468,19 +478,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Demo_2" />
-      <item itemvalue="Application.Demo_1" />
       <item itemvalue="Application.Generate_118" />
       <item itemvalue="Application.MaxProfit_122" />
       <item itemvalue="Application.IsPalindrome_125" />
+      <item itemvalue="Application.InsertionSortList_147" />
+      <item itemvalue="Application.EvalRPN_150" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EvalRPN_150" />
+        <item itemvalue="Application.InsertionSortList_147" />
         <item itemvalue="Application.IsPalindrome_125" />
         <item itemvalue="Application.MaxProfit_122" />
         <item itemvalue="Application.Generate_118" />
-        <item itemvalue="Application.Demo_1" />
-        <item itemvalue="Application.Demo_2" />
       </list>
     </recent_temporary>
   </component>
@@ -608,12 +618,13 @@
       <workItem from="1564575436364" duration="2058000" />
       <workItem from="1564578047225" duration="346000" />
       <workItem from="1564578547296" duration="29000" />
-      <workItem from="1564580089555" duration="963000" />
+      <workItem from="1564580089555" duration="1151000" />
+      <workItem from="1564659532807" duration="2929000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="281096000" />
+    <option name="totallyTimeSpent" value="284213000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="0" width="1920" height="1080" extended-state="6" />
@@ -625,10 +636,10 @@
       <window_info id="UI Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.49920255" visible="true" weight="0.16435432" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.49920255" visible="true" weight="0.16595517" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49893278" weight="0.22738095" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49893278" weight="0.22712934" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4994664" weight="0.3753943" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -661,27 +672,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode/DeleteDuplicates2_82.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/Partition_86.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/Merge_88.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/GrayCode_89.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -926,22 +916,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/IsPalindrome_125.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="931">
+        <state relative-caret-position="893">
           <caret line="49" column="24" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
           <folding>
             <element signature="e#406#407#0" expanded="true" />
             <element signature="e#491#492#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/SumNumbers_129.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="817">
-          <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="16" />
-          <folding>
-            <element signature="e#764#765#0" expanded="true" />
-            <element signature="e#833#834#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -997,8 +976,44 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/PreorderTraversal_144.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="30" column="8" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="48" selection-end-column="19" />
+        <state relative-caret-position="324">
+          <caret line="25" column="69" selection-start-line="25" selection-start-column="69" selection-end-line="25" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aaa/LRUCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="50" column="31" lean-forward="true" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1111#1112#0" expanded="true" />
+            <element signature="e#1145#1146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/SumNumbers_129.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aaa/InsertionSortList_147.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="49" column="34" lean-forward="true" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aaa/EvalRPN_150.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="647">
+          <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
