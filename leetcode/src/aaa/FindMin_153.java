@@ -1,5 +1,7 @@
 package aaa;
 
+import java.util.LinkedList;
+
 /**
  * 假设按照升序排序的数组在预先未知的某个点上进行了旋转。
  *
@@ -30,6 +32,7 @@ public class FindMin_153 {
 
     public int findMin(int[] nums) {
         int left = 0, right = nums.length - 1;
+        LinkedList
         if (nums[right] > nums[left])
             return nums[0];
         while (left < right && right - left > 1) {
