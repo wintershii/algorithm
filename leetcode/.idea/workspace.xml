@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="876a0187-0bf6-45e9-8d4a-1df2ccb6760c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/stack/MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack/_1LegelPop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack/_2KNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/digui/_1GetSonSet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -121,7 +119,7 @@
     <session id="-1666425734">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="29" />
+          <entry key="project.closed" value="31" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.13" value="1" />
@@ -131,49 +129,40 @@
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.2" value="2" />
-          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.22" value="2" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.3" value="3" />
           <entry key="project.open.time.4" value="3" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="30" />
+          <entry key="project.opened" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="71" />
+          <entry key="java" value="72" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="71" />
+          <entry key="JAVA" value="72" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="19042" />
+          <entry key="java" value="19978" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="19042" />
+          <entry key="JAVA" value="19978" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/linklist/_4PartitionList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/linklist/_5CopyList.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -199,7 +188,7 @@
         <entry file="file://$PROJECT_DIR$/src/linklist/SortList.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="665">
-              <caret line="35" column="8" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+              <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -209,12 +198,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding>
-                <element signature="e#653#654#0" expanded="true" />
-                <element signature="e#686#687#0" expanded="true" />
-                <element signature="e#713#714#0" expanded="true" />
-                <element signature="e#748#749#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -222,7 +205,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/stack/_1LegelPop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
+            <state relative-caret-position="228">
               <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -231,11 +214,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/stack/_2KNum.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="532">
-              <caret line="28" column="40" lean-forward="true" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+              <caret line="28" column="40" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/digui/_1GetSonSet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-512">
+              <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#255#256#0" expanded="true" />
+                <element signature="e#291#292#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -243,8 +240,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/Queue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
-              <caret line="205" column="37" lean-forward="true" selection-start-line="205" selection-start-column="37" selection-end-line="205" selection-end-column="37" />
+            <state relative-caret-position="3268">
+              <caret line="205" column="37" selection-start-line="205" selection-start-column="37" selection-end-line="205" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -286,7 +283,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/sort/BubbleSort.java" />
         <option value="$PROJECT_DIR$/src/sort/QuickSort.java" />
         <option value="$PROJECT_DIR$/src/sort/InsertSort.java" />
         <option value="$PROJECT_DIR$/src/sort/ShellSort.java" />
@@ -337,6 +333,7 @@
         <option value="$PROJECT_DIR$/src/stack/MinStack.java" />
         <option value="$PROJECT_DIR$/src/stack/_1LegelPop.java" />
         <option value="$PROJECT_DIR$/src/stack/_2KNum.java" />
+        <option value="$PROJECT_DIR$/src/digui/_1GetSonSet.java" />
       </list>
     </option>
   </component>
@@ -378,7 +375,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -395,19 +391,26 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="digui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="stack" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="[&#9;null&#9;null&#10;{&#9;null&#9;null&#10;**&#9;FILE&#9;file:///home/shidongxuan/Algorithm/algorithm/src/array/FindLongestIncresedArray.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567429538327" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567505143905" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -425,13 +428,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._7minPathSum">
-    <configuration name="IsIsomorphic_205" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.IsIsomorphic_205" />
+  <component name="RunManager" selected="Application._1GetSonSet">
+    <configuration name="_1GetSonSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="digui._1GetSonSet" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.*" />
+          <option name="PATTERN" value="digui.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -492,19 +495,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.IsIsomorphic_205" />
       <item itemvalue="Application._4CoinChange" />
       <item itemvalue="Application._4Triangle" />
       <item itemvalue="Application._6LengthOfLIS" />
       <item itemvalue="Application._7minPathSum" />
+      <item itemvalue="Application._1GetSonSet" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._1GetSonSet" />
         <item itemvalue="Application._7minPathSum" />
         <item itemvalue="Application._6LengthOfLIS" />
         <item itemvalue="Application._4Triangle" />
         <item itemvalue="Application._4CoinChange" />
-        <item itemvalue="Application.IsIsomorphic_205" />
       </list>
     </recent_temporary>
   </component>
@@ -657,24 +660,24 @@
       <workItem from="1565857082809" duration="12825000" />
       <workItem from="1565915429421" duration="12475000" />
       <workItem from="1567330570929" duration="1461000" />
-      <workItem from="1567422840083" duration="3478000" />
+      <workItem from="1567422840083" duration="4075000" />
+      <workItem from="1567499777188" duration="5621000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="369310000" />
+    <option name="totallyTimeSpent" value="375528000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="0" width="1920" height="1080" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Structure" order="0" sideWeight="0.4125178" side_tool="true" weight="0.20811099" />
+      <window_info id="Structure" order="0" sideWeight="0.41394025" side_tool="true" weight="0.21664888" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.5874822" visible="true" weight="0.2145144" />
+      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.58605975" visible="true" weight="0.21664888" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49893278" weight="0.26077813" />
@@ -710,7 +713,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode/FractionToDecimal_166.java" />
     <entry file="file://$PROJECT_DIR$/src/sort/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -1021,6 +1023,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/linklist/SortList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stack/MinStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stack/_1LegelPop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3268">
+          <caret line="205" column="37" selection-start-line="205" selection-start-column="37" selection-end-line="205" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -1039,47 +1072,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/linklist/SortList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="35" column="8" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/stack/MinStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="e#653#654#0" expanded="true" />
-            <element signature="e#686#687#0" expanded="true" />
-            <element signature="e#713#714#0" expanded="true" />
-            <element signature="e#748#749#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="205" column="37" lean-forward="true" selection-start-line="205" selection-start-column="37" selection-end-line="205" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/stack/_1LegelPop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/stack/_2KNum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
-          <caret line="28" column="40" lean-forward="true" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+          <caret line="28" column="40" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/digui/_1GetSonSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-512">
+          <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
