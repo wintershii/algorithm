@@ -2,11 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="876a0187-0bf6-45e9-8d4a-1df2ccb6760c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/NumConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_2Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_9hash/_1LongestString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/binaryfind/_4SearchInverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binaryfind/_4SearchInverseArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dp/_4CoinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dp/_4CoinChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/binaryfind/_1BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1binaryfind/_1BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/binaryfind/_2SearchInsertPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1binaryfind/_2SearchInsertPosition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/binaryfind/_3SearchRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1binaryfind/_3SearchRange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/binaryfind/_4SearchInverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1binaryfind/_4SearchInverseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/binaryfind/_5SearchSmallerCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1binaryfind/_5SearchSmallerCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/digui/_1GetSonSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_2digui/_1GetSonSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/digui/_2GetDifSonSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_2digui/_2GetDifSonSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/digui/_3GetTargetSonSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_2digui/_3GetTargetSonSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/digui/_4LegelKuohao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_2digui/_4LegelKuohao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dp/BugAndSellStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_3dp/BugAndSellStock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dp/_1UpStair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_3dp/_1UpStair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dp/_2RobHome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_3dp/_2RobHome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dp/_3MaxSubmentSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_3dp/_3MaxSubmentSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dp/_4CoinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_3dp/_4CoinChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dp/_4Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_3dp/_4Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dp/_6LengthOfLIS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_3dp/_6LengthOfLIS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dp/_7minPathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_3dp/_7minPathSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/MajorityElement_169.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/MajorityElement_169.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linklist/SortList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_4linklist/SortList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linklist/_1ReverseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_4linklist/_1ReverseList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linklist/_2gtIntsersection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_4linklist/_2gtIntsersection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linklist/_3ListCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_4linklist/_3ListCycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linklist/_4PartitionList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_4linklist/_4PartitionList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linklist/_5CopyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_4linklist/_5CopyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linklist/_6MergeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_4linklist/_6MergeList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_5sort/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sort/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_5sort/HeapSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sort/InsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_5sort/InsertSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_5sort/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_5sort/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sort/SelectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_5sort/SelectSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sort/ShellSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_5sort/ShellSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stack/MinStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_6stack/MinStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stack/_1LegelPop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_6stack/_1LegelPop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stack/_2KNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_6stack/_2KNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/SimplifiedPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/SimplifiedPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tree/_1SumPathOfTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_8tree/_1SumPathOfTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tree/_3RightSideViewTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_8tree/_3RightSideViewTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tree/_LowestCommonAncestor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_8tree/_LowestCommonAncestor.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -122,7 +158,7 @@
     <session id="-1666425734">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="39" />
+          <entry key="project.closed" value="40" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.13" value="1" />
@@ -133,7 +169,7 @@
           <entry key="project.open.time.19" value="2" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.22" value="3" />
+          <entry key="project.open.time.22" value="4" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.29" value="2" />
@@ -142,27 +178,27 @@
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="39" />
+          <entry key="project.opened" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="91" />
+          <entry key="java" value="93" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="91" />
+          <entry key="JAVA" value="93" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="26542" />
+          <entry key="java" value="26875" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="26542" />
+          <entry key="JAVA" value="26875" />
         </counts>
       </usages-collector>
     </session>
@@ -170,10 +206,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/binaryfind/_5SearchSmallerCount.java">
+        <entry file="file://$PROJECT_DIR$/src/_1binaryfind/_5SearchSmallerCount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="24" column="37" lean-forward="true" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+            <state relative-caret-position="399">
+              <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -182,18 +218,18 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dp/_3MaxSubmentSum.java">
+        <entry file="file://$PROJECT_DIR$/src/_3dp/_3MaxSubmentSum.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="57">
-              <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="8" />
+              <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dp/_4CoinChange.java">
+        <entry file="file://$PROJECT_DIR$/src/_3dp/_4CoinChange.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="688">
+            <state relative-caret-position="1292">
               <caret line="70" selection-start-line="70" selection-end-line="70" />
             </state>
           </provider>
@@ -202,30 +238,38 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_2Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/binaryfind/_4SearchInverseArray.java">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="57">
-              <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="20" />
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/_9hash/_1LongestString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="33" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_1binaryfind/_4SearchInverseArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="20" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/NumConverter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
+            <state relative-caret-position="133">
               <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-              <folding>
-                <element signature="e#84#85#0" expanded="true" />
-                <element signature="e#153#154#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -276,7 +320,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode/FindRepeatedDnaSequences_187.java" />
         <option value="$PROJECT_DIR$/src/leetcode/Rotate_189.java" />
         <option value="$PROJECT_DIR$/src/leetcode/ReverseBits_190.java" />
         <option value="$PROJECT_DIR$/src/leetcode/HammingWeight_191.java" />
@@ -327,6 +370,7 @@
         <option value="$PROJECT_DIR$/src/NumConverter.java" />
         <option value="$PROJECT_DIR$/src/_2Solution.java" />
         <option value="$PROJECT_DIR$/src/binaryfind/_4SearchInverseArray.java" />
+        <option value="$PROJECT_DIR$/src/_9hash/_1LongestString.java" />
       </list>
     </option>
   </component>
@@ -367,8 +411,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -381,53 +423,19 @@
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="binaryfind" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="digui" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="linklist" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="stack" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="[&#9;null&#9;null&#10;{&#9;null&#9;null&#10;**&#9;FILE&#9;file:///home/shidongxuan/Algorithm/algorithm/src/array/FindLongestIncresedArray.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568192427300" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568294187483" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -464,11 +472,11 @@
       </method>
     </configuration>
     <configuration name="_1BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="binaryfind._1BinarySearch" />
+      <option name="MAIN_CLASS_NAME" value="_1binaryfind._1BinarySearch" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="binaryfind.*" />
+          <option name="PATTERN" value="_1binaryfind.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -484,11 +492,11 @@
       </method>
     </configuration>
     <configuration name="_4SearchInverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="binaryfind._4SearchInverseArray" />
+      <option name="MAIN_CLASS_NAME" value="_1binaryfind._4SearchInverseArray" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="binaryfind.*" />
+          <option name="PATTERN" value="_1binaryfind.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -672,11 +680,12 @@
       <workItem from="1567994465434" duration="3084000" />
       <workItem from="1568116006956" duration="5696000" />
       <workItem from="1568184646144" duration="6382000" />
+      <workItem from="1568292952677" duration="1832000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="402656000" />
+    <option name="totallyTimeSpent" value="404488000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="988" extended-state="6" />
@@ -688,9 +697,9 @@
       <window_info id="UI Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.58605975" visible="true" weight="0.19370331" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.58605975" visible="true" weight="0.19583778" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32945284" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49893278" weight="0.30384168" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4994664" weight="0.4037855" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -724,20 +733,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode/FindRepeatedDnaSequences_187.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/Rotate_189.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/aaa/RightSideView_199.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="798">
@@ -815,21 +810,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dp/_1UpStair.java">
+    <entry file="file://$PROJECT_DIR$/src/_3dp/_1UpStair.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dp/_2RobHome.java">
+    <entry file="file://$PROJECT_DIR$/src/_3dp/_2RobHome.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="19" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dp/_4Triangle.java">
+    <entry file="file://$PROJECT_DIR$/src/_3dp/_4Triangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="608">
           <caret line="32" column="78" selection-start-line="32" selection-start-column="78" selection-end-line="32" selection-end-column="78" />
@@ -837,133 +832,133 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/linklist.java" />
-    <entry file="file://$PROJECT_DIR$/src/dp/_7minPathSum.java">
+    <entry file="file://$PROJECT_DIR$/src/_3dp/_7minPathSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="589">
           <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dp/BugAndSellStock.java">
+    <entry file="file://$PROJECT_DIR$/src/_3dp/BugAndSellStock.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/linklist/_1ReverseList.java">
+    <entry file="file://$PROJECT_DIR$/src/_4linklist/_1ReverseList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="969">
           <caret line="51" column="11" selection-start-line="51" selection-start-column="11" selection-end-line="51" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/linklist/_2gtIntsersection.java">
+    <entry file="file://$PROJECT_DIR$/src/_4linklist/_2gtIntsersection.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/linklist/_3ListCycle.java">
+    <entry file="file://$PROJECT_DIR$/src/_4linklist/_3ListCycle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/linklist/_4PartitionList.java">
+    <entry file="file://$PROJECT_DIR$/src/_4linklist/_4PartitionList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/linklist/_5CopyList.java">
+    <entry file="file://$PROJECT_DIR$/src/_4linklist/_5CopyList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="684">
           <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/linklist/_6MergeList.java">
+    <entry file="file://$PROJECT_DIR$/src/_4linklist/_6MergeList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1064">
           <caret line="59" column="18" selection-start-line="59" selection-start-column="18" selection-end-line="59" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/linklist/SortList.java">
+    <entry file="file://$PROJECT_DIR$/src/_4linklist/SortList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="665">
           <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/stack/MinStack.java">
+    <entry file="file://$PROJECT_DIR$/src/_6stack/MinStack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/stack/_1LegelPop.java">
+    <entry file="file://$PROJECT_DIR$/src/_6stack/_1LegelPop.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dp/_6LengthOfLIS.java">
+    <entry file="file://$PROJECT_DIR$/src/_3dp/_6LengthOfLIS.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="627">
           <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/stack/_2KNum.java">
+    <entry file="file://$PROJECT_DIR$/src/_6stack/_2KNum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
           <caret line="28" column="40" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/digui/_1GetSonSet.java">
+    <entry file="file://$PROJECT_DIR$/src/_2digui/_1GetSonSet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1064">
           <caret line="59" column="39" selection-start-line="59" selection-start-column="39" selection-end-line="59" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/digui/_2GetDifSonSet.java">
+    <entry file="file://$PROJECT_DIR$/src/_2digui/_2GetDifSonSet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/digui/_3GetTargetSonSet.java">
+    <entry file="file://$PROJECT_DIR$/src/_2digui/_3GetTargetSonSet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/digui/_4LegelKuohao.java">
+    <entry file="file://$PROJECT_DIR$/src/_2digui/_4LegelKuohao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="589">
           <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sort/MergeSort.java">
+    <entry file="file://$PROJECT_DIR$/src/_5sort/MergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
           <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tree/_1SumPathOfTree.java">
+    <entry file="file://$PROJECT_DIR$/src/_8tree/_1SumPathOfTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="608">
           <caret line="35" column="39" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
@@ -973,14 +968,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tree/_LowestCommonAncestor.java">
+    <entry file="file://$PROJECT_DIR$/src/_8tree/_LowestCommonAncestor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
           <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tree/_3RightSideViewTree.java">
+    <entry file="file://$PROJECT_DIR$/src/_8tree/_3RightSideViewTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
@@ -990,24 +985,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/binaryfind/_1BinarySearch.java">
+    <entry file="file://$PROJECT_DIR$/src/_1binaryfind/_1BinarySearch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="760">
           <caret line="40" column="30" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/binaryfind/_2SearchInsertPosition.java">
+    <entry file="file://$PROJECT_DIR$/src/_1binaryfind/_2SearchInsertPosition.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/binaryfind/_3SearchRange.java">
+    <entry file="file://$PROJECT_DIR$/src/_1binaryfind/_3SearchRange.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="205" column="37" selection-start-line="205" selection-start-column="37" selection-end-line="205" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_1binaryfind/_5SearchSmallerCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_3dp/_3MaxSubmentSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_3dp/_4CoinChange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_1binaryfind/_4SearchInverseArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -1036,58 +1069,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/binaryfind/_5SearchSmallerCount.java">
+    <entry file="file://$PROJECT_DIR$/src/array/FindLongestConsecutive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="24" column="37" lean-forward="true" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dp/_3MaxSubmentSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
-          <caret line="205" column="37" selection-start-line="205" selection-start-column="37" selection-end-line="205" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_2Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dp/_4CoinChange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="688">
-          <caret line="70" selection-start-line="70" selection-end-line="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/binaryfind/_4SearchInverseArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="20" />
+        <state relative-caret-position="152">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/NumConverter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
+        <state relative-caret-position="133">
           <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_2Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_9hash/_1LongestString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="33" selection-end-column="25" />
           <folding>
-            <element signature="e#84#85#0" expanded="true" />
-            <element signature="e#153#154#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

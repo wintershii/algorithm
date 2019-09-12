@@ -17,7 +17,7 @@ public class SimplifiedPath {
      * 最后用String.join这个方法，使每个字符串之间加入了"/"
      *
      *
-     * 注意！！！　本题不能使用Deque来模拟栈，因为在最后的 List list = new ArrayList(stack)时
+     * 注意！！！　本题不能使用Deque来模拟栈，因为在最后的 List list = new ArrayList(_6stack)时
      * 构造器接受的参数类型　如果用Deque，就会被当成队列，然后顺序就会反
      * @param path
      * @return
