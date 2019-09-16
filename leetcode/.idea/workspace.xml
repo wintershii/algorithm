@@ -2,47 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="876a0187-0bf6-45e9-8d4a-1df2ccb6760c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_9hash/_1LongestString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_9hash/_2LongestSonString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/binaryfind/_1BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1binaryfind/_1BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/binaryfind/_2SearchInsertPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1binaryfind/_2SearchInsertPosition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/binaryfind/_3SearchRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1binaryfind/_3SearchRange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/binaryfind/_4SearchInverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1binaryfind/_4SearchInverseArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/binaryfind/_5SearchSmallerCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1binaryfind/_5SearchSmallerCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/digui/_1GetSonSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_2digui/_1GetSonSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/digui/_2GetDifSonSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_2digui/_2GetDifSonSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/digui/_3GetTargetSonSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_2digui/_3GetTargetSonSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/digui/_4LegelKuohao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_2digui/_4LegelKuohao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dp/BugAndSellStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_3dp/BugAndSellStock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dp/_1UpStair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_3dp/_1UpStair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dp/_2RobHome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_3dp/_2RobHome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dp/_3MaxSubmentSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_3dp/_3MaxSubmentSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dp/_4CoinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_3dp/_4CoinChange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dp/_4Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_3dp/_4Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dp/_6LengthOfLIS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_3dp/_6LengthOfLIS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dp/_7minPathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_3dp/_7minPathSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/MajorityElement_169.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/MajorityElement_169.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linklist/SortList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_4linklist/SortList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linklist/_1ReverseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_4linklist/_1ReverseList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linklist/_2gtIntsersection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_4linklist/_2gtIntsersection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linklist/_3ListCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_4linklist/_3ListCycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linklist/_4PartitionList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_4linklist/_4PartitionList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linklist/_5CopyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_4linklist/_5CopyList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linklist/_6MergeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_4linklist/_6MergeList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_5sort/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sort/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_5sort/HeapSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sort/InsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_5sort/InsertSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_5sort/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_5sort/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sort/SelectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_5sort/SelectSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sort/ShellSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_5sort/ShellSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stack/MinStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_6stack/MinStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stack/_1LegelPop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_6stack/_1LegelPop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stack/_2KNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_6stack/_2KNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/SimplifiedPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/SimplifiedPath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tree/_1SumPathOfTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_8tree/_1SumPathOfTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tree/_3RightSideViewTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_8tree/_3RightSideViewTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tree/_LowestCommonAncestor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_8tree/_LowestCommonAncestor.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -158,12 +119,12 @@
     <session id="-1666425734">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="40" />
+          <entry key="project.closed" value="41" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="3" />
-          <entry key="project.open.time.15" value="5" />
+          <entry key="project.open.time.15" value="6" />
           <entry key="project.open.time.16" value="3" />
           <entry key="project.open.time.17" value="2" />
           <entry key="project.open.time.19" value="2" />
@@ -175,48 +136,36 @@
           <entry key="project.open.time.29" value="2" />
           <entry key="project.open.time.3" value="3" />
           <entry key="project.open.time.4" value="3" />
-          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="40" />
+          <entry key="project.opened" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="93" />
+          <entry key="java" value="94" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="93" />
+          <entry key="JAVA" value="94" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="26875" />
+          <entry key="java" value="27236" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="26875" />
+          <entry key="JAVA" value="27236" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_1binaryfind/_5SearchSmallerCount.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_3dp/_3MaxSubmentSum.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -244,14 +193,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_9hash/_1LongestString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="33" selection-end-column="25" />
+            <state relative-caret-position="456">
+              <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/_9hash/_2LongestSonString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="27" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -320,7 +278,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode/Rotate_189.java" />
         <option value="$PROJECT_DIR$/src/leetcode/ReverseBits_190.java" />
         <option value="$PROJECT_DIR$/src/leetcode/HammingWeight_191.java" />
         <option value="$PROJECT_DIR$/src/aaa/Rob_198.java" />
@@ -371,6 +328,7 @@
         <option value="$PROJECT_DIR$/src/_2Solution.java" />
         <option value="$PROJECT_DIR$/src/binaryfind/_4SearchInverseArray.java" />
         <option value="$PROJECT_DIR$/src/_9hash/_1LongestString.java" />
+        <option value="$PROJECT_DIR$/src/_9hash/_2LongestSonString.java" />
       </list>
     </option>
   </component>
@@ -387,9 +345,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="27" />
+    <option name="x" value="1920" />
     <option name="width" value="1920" />
-    <option name="height" value="988" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -411,6 +369,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -423,19 +383,23 @@
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_9hash" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="[&#9;null&#9;null&#10;{&#9;null&#9;null&#10;**&#9;FILE&#9;file:///home/shidongxuan/Algorithm/algorithm/src/array/FindLongestIncresedArray.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568294187483" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568642688424" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -681,14 +645,16 @@
       <workItem from="1568116006956" duration="5696000" />
       <workItem from="1568184646144" duration="6382000" />
       <workItem from="1568292952677" duration="1832000" />
+      <workItem from="1568624549781" duration="28000" />
+      <workItem from="1568631060438" duration="1459000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="404488000" />
+    <option name="totallyTimeSpent" value="405975000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1920" height="988" extended-state="6" />
+    <frame x="1920" y="0" width="1920" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" sideWeight="0.41394025" side_tool="true" weight="0.21664888" />
@@ -697,7 +663,7 @@
       <window_info id="UI Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.58605975" visible="true" weight="0.19583778" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.58605975" visible="true" weight="0.20010673" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32945284" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49893278" weight="0.30384168" />
@@ -733,13 +699,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/aaa/RightSideView_199.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="47" column="32" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/RangeBitwiseAnd_201.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -962,9 +921,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="608">
           <caret line="35" column="39" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -979,9 +935,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1013,6 +966,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/FindLongestConsecutive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/_1binaryfind/_5SearchSmallerCount.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -1037,10 +997,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/_2Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/_1binaryfind/_4SearchInverseArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="3" column="20" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NumConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -1069,34 +1043,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/FindLongestConsecutive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NumConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_2Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_9hash/_1LongestString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="33" selection-end-column="25" />
+        <state relative-caret-position="456">
+          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_9hash/_2LongestSonString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="27" selection-end-column="19" />
         </state>
       </provider>
     </entry>
