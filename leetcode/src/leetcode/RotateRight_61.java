@@ -3,9 +3,9 @@ package leetcode;
 public class RotateRight_61 {
 
     public static void main(String[] args) {
-        ListNode head = new RemoveNthRormEnd_19().create(new int[]{});
+        ListNode head = new _19RemoveNthRormEnd().create(new int[]{});
         ListNode newHead = new RotateRight_61().rotateRight(head,3);
-        new RemoveNthRormEnd_19().print(newHead);
+        new _19RemoveNthRormEnd().print(newHead);
     }
 
     public ListNode rotateRight(ListNode head, int k) {
