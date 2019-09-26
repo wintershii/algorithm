@@ -1,8 +1,12 @@
 package leetcode;
 
-public class Divide_29 {
+/**
+ * 两数相除
+ * 不能使用乘法除法和取摸运算
+ */
+public class _29Divide {
     public static void main(String[] args) {
-        System.out.println(new Divide_29().mySolve(-2147483648,1));
+        System.out.println(new _29Divide().mySolve(-2147483648,1));
     }
 
     public int mySolve(int dividend, int divisor) {

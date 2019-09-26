@@ -1,7 +1,9 @@
 package leetcode;
 
+/**
+ * K个一组翻转链表
+ */
 public class _25ReverseKGroup {
-
 
     public static void main(String[] args) {
         ListNode head = new ListNode(1);
@@ -27,7 +29,13 @@ public class _25ReverseKGroup {
             length++;
             head = head.next;
         }
+        /**
+         * 外部进行循环,总共翻转的次数为length/k
+         */
         while (length >= k) {
+            /**
+             * 内部循环进行翻转
+             */
             for (int i = 1; i < k; ++i) {
                 nex = cur.next;
                 cur.next = nex.next;

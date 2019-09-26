@@ -2,10 +2,10 @@ package leetcode;
 
 import java.util.Arrays;
 
-public class NextPermutation_31 {
+public class _31NextPermutation {
     public static void main(String[] args) {
         int[] nums = new int[]{5,1,1};
-        new NextPermutation_31().nextPermutation(nums);
+        new _31NextPermutation().nextPermutation(nums);
         for (int i = 0; i < nums.length; i++) {
             System.out.print(nums[i] + " ");
         }
@@ -21,6 +21,9 @@ public class NextPermutation_31 {
             return;
         }
         int flag = -1;
+        /**
+         * 从后往前遍历, 找到第一个前面元素小于后面元素的地方
+         */
         for (int i = nums.length - 1; i > 0; i--) {
             if (nums[i] <= nums[i-1]) continue;
             flag = i;

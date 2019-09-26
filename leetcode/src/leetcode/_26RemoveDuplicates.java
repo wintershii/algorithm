@@ -1,9 +1,12 @@
 package leetcode;
 
-public class RemoveDuplicates_26 {
+/**
+ * 删除排序数组中的重复项
+ */
+public class _26RemoveDuplicates {
     public static void main(String[] args) {
         int[] arr = new int[]{0,0,1,1,1,2,2,3,3,4};
-        int n = new RemoveDuplicates_26().removeDuplicates(arr);
+        int n = new _26RemoveDuplicates().removeDuplicates(arr);
         for (int i = 0; i  < n; i++) {
             System.out.print(arr[i] + " ");
         }
