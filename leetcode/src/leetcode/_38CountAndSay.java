@@ -1,8 +1,8 @@
 package leetcode;
 
-public class CountAndSay_38 {
+public class _38CountAndSay {
     public static void main(String[] args) {
-        System.out.println(new CountAndSay_38().countAndSay(5));
+        System.out.println(new _38CountAndSay().countAndSay(5));
     }
 
     public String countAndSay(int n) {

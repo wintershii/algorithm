@@ -3,7 +3,10 @@ package leetcode;
 import java.util.ArrayList;
 import java.util.List;
 
-public class SolveNQueens_51 {
+/**
+ * N皇后问题
+ */
+public class _51SolveNQueens {
     public static void main(String[] args) {
 
     }
@@ -40,9 +43,11 @@ public class SolveNQueens_51 {
 
 
     public void putQueen(List<List<String>> list, int row, int n, int[] arr) {
+        //到了最后一行
         if (row == n) {
             List<String> strings = new ArrayList<>();
             for (int i = 0; i < n; i++) {
+                //为每一行创建一个StringBuilder
                 StringBuilder sb = new StringBuilder();
                 for (int j = 0; j < n; j++) {
                     if (arr[i] == j) sb.append("Q");
@@ -63,6 +68,7 @@ public class SolveNQueens_51 {
 
     public boolean check(int[] arr, int row) {
         for (int i = 0; i < row; i++) {
+            //检测是否可以攻击
             if (arr[i] == arr[row] || Math.abs(row - i) == Math.abs(arr[row] - arr[i])) {
                 return false;
             }

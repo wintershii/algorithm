@@ -2,9 +2,9 @@ package leetcode;
 
 import java.util.*;
 
-public class CombinationSum_39 {
+public class _39CombinationSum {
     public static void main(String[] args) {
-        System.out.println(new CombinationSum_39().combinationSum(new int[]{2,5,1,2},5));
+        System.out.println(new _39CombinationSum().combinationSum(new int[]{2,5,1,2},5));
     }
 
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
