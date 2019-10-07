@@ -2,6 +2,9 @@ package leetcode;
 
 import java.util.*;
 
+/**
+ * 中序遍历二叉树
+ */
 public class InOrderTraversal_94 {
 
     private List<Integer> list = new ArrayList<>();
@@ -11,6 +14,11 @@ public class InOrderTraversal_94 {
         System.out.println(new InOrderTraversal_94().inorderTraversal(new TreeNode(2)));
     }
 
+    /**
+     * 非递归,使用栈来实现
+     * @param root
+     * @return
+     */
     public List<Integer> inorderTraversal(TreeNode root) {
         List<Integer> res = new ArrayList<>();
         Stack<TreeNode> stack = new Stack<>();
