@@ -1,6 +1,9 @@
 package leetcode;
 
-public class Partition_86 {
+/**
+ * 分隔链表
+ */
+public class _86Partition {
 
     public ListNode partition(ListNode head, int x) {
         ListNode tmp1 = new ListNode(0);
@@ -10,19 +13,19 @@ public class Partition_86 {
         ListNode node = head;
         while (node != null) {
             if (node.val < x) {
-                node1.next = new ListNode(node.val);
+                node1.next = node;
+                node = node.next;
                 node1 = node1.next;
+                node1.next = null;
             } else {
-                node2.next = new ListNode(node.val);
+                node2.next = node;
+                node = node.next;
                 node2 = node2.next;
+                node2.next = null;
             }
-            node = node.next;
+
         }
-        ListNode tail = tmp1;
-        while (tail.next != null) {
-            tail = tail.next;
-        }
-        tail.next = tmp2.next;
+        node1.next = tmp2.next;
         return tmp1.next;
     }
 }
