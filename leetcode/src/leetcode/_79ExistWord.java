@@ -1,6 +1,6 @@
 package leetcode;
 
-public class ExistWord_79 {
+public class _79ExistWord {
 
     int[][] dir = new int[][]{{0,1},{1,0},{0,-1},{-1,0}};
     boolean[][] book;
@@ -10,7 +10,7 @@ public class ExistWord_79 {
 
         char[][] board = new char[][]{{'C','A','A'},{'A','A','A'},{'B','C','D'}};
 
-        System.out.println(new ExistWord_79().exist(board,"AAB"));
+        System.out.println(new _79ExistWord().exist(board,"AAB"));
     }
 
     public boolean exist(char[][] board, String word) {
