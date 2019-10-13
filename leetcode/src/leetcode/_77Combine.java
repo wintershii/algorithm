@@ -3,12 +3,12 @@ package leetcode;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Combine_77 {
+public class _77Combine {
 
     private boolean[] book;
 
     public static void main(String[] args) {
-        System.out.println(new Combine_77().combine(4,2));
+        System.out.println(new _77Combine().combine(4,2));
     }
 
 

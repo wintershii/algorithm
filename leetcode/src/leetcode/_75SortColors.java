@@ -1,6 +1,9 @@
 package leetcode;
 
-public class SortColors_75 {
+/**
+ * 颜色分类
+ */
+public class _75SortColors {
 
     public static void main(String[] args) {
         int[] nums = new int[]{2,0,2,1,1,0};
@@ -8,7 +11,7 @@ public class SortColors_75 {
             System.out.print(t + " ");
         }
         System.out.println();
-        new SortColors_75().sortColors(nums);
+        new _75SortColors().sortColors(nums);
         for (int t : nums) {
             System.out.print(t + " ");
         }
