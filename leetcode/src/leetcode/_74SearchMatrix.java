@@ -1,6 +1,6 @@
 package leetcode;
 
-public class SearchMatrix_74 {
+public class _74SearchMatrix {
     public boolean  searchMatrix(int[][] matrix, int target) {
         if (matrix.length == 0) {
             return false;

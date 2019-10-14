@@ -6,9 +6,9 @@ import java.util.*;
  * 题目：简化路径
  * 来源:leetcode字节跳动专栏
  */
-public class SimplifiedPath {
+public class _71SimplifiedPath {
     public static void main(String[] args) {
-        System.out.println(new SimplifiedPath().simplifyPath("/a/./b/../c/"));
+        System.out.println(new _71SimplifiedPath().simplifyPath("/a/./b/../c/"));
     }
 
     /**

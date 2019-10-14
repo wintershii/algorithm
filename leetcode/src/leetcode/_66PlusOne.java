@@ -1,8 +1,10 @@
 package leetcode;
 
 
-
-public class PlusOne_66 {
+/**
+ * 加一
+ */
+public class _66PlusOne {
     public int[] plusOne(int[] digits) {
         int len = digits.length;
         digits[len-1] += 1;

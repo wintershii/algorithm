@@ -1,8 +1,8 @@
 package leetcode;
 
-public class ClimbStairs_70 {
+public class _70ClimbStairs {
     public static void main(String[] args) {
-        System.out.println(new ClimbStairs_70().climbStairs(3));
+        System.out.println(new _70ClimbStairs().climbStairs(3));
     }
 
     public int climbStairs(int n) {

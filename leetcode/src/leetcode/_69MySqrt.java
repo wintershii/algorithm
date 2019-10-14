@@ -1,10 +1,16 @@
 package leetcode;
 
-public class MySqrt_69 {
+public class _69MySqrt {
     public static void main(String[] args) {
-        System.out.println(new MySqrt_69().mySqrt(100));
+        System.out.println(new _69MySqrt().mySqrt(100));
     }
 
+    /**
+     * 解法 :
+     * 二分法
+     * @param x
+     * @return
+     */
     public int mySqrt(int x) {
         if (x == 1) return x;
         int min = 0;
