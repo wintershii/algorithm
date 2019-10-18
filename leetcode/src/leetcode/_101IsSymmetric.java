@@ -3,7 +3,7 @@ package leetcode;
 import java.util.Deque;
 import java.util.LinkedList;
 
-public class IsSymmetric_101 {
+public class _101IsSymmetric {
     public boolean isSymmetric1(TreeNode root) {
         if (root == null) {
             return true;

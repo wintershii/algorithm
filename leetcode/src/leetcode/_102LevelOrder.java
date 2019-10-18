@@ -2,7 +2,7 @@ package leetcode;
 
 import java.util.*;
 
-public class LevelOrder_102 {
+public class _102LevelOrder {
     public List<List<Integer>> levelOrder(TreeNode root) {
         if (root == null) {
             return new ArrayList<>();
