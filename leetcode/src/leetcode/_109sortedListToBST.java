@@ -1,6 +1,10 @@
 package leetcode;
 
-public class sortedListToBST_109 {
+/**
+ * 有序链表转二叉搜索树'
+ * 每次通过快慢指针获取链表的中间节点
+ */
+public class _109sortedListToBST {
     public TreeNode sortedListToBST(ListNode head) {
         if (head == null) {
             return null;

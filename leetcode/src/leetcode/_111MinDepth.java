@@ -1,6 +1,6 @@
 package leetcode;
 
-public class MinDepth_111 {
+public class _111MinDepth {
     int min = Integer.MAX_VALUE;
 
     public int minDepth(TreeNode root) {

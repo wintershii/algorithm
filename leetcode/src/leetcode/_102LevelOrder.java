@@ -2,6 +2,12 @@ package leetcode;
 
 import java.util.*;
 
+/**
+ * 层序遍历
+ * 使用队列
+ * 外循环,队列不为空
+ * 内循环, 先获取队列当前的size,再进行内循环.
+ */
 public class _102LevelOrder {
     public List<List<Integer>> levelOrder(TreeNode root) {
         if (root == null) {

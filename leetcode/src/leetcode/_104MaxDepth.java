@@ -3,7 +3,7 @@ package leetcode;
 /**
  * 二叉树的最大深度
  */
-public class MaxDepth_104 {
+public class _104MaxDepth {
 
     int max = 0;
 

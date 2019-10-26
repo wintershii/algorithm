@@ -4,8 +4,9 @@ import java.util.*;
 
 /**
  * 从底部层次遍历二叉树
+ * 每次放在队列前部就可以了.
  */
-public class LevelOrderBottom_107 {
+public class _107LevelOrderBottom {
     public List<List<Integer>> levelOrderBottom(TreeNode root) {
         List<List<Integer>> res = new ArrayList<>();
         if (root == null) return res;
