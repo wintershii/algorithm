@@ -39,7 +39,7 @@ package leetcode;
  * 链接：https://leetcode-cn.com/problems/sum-root-to-leaf-numbers
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-public class SumNumbers_129 {
+public class _129SumNumbers {
 
     int res = 0;
 
@@ -53,9 +53,6 @@ public class SumNumbers_129 {
     }
 
     private void search(int now, TreeNode root) {
-        if (root == null) {
-            return;
-        }
         int newNow = 10 * now + root.val;
         if (root.left == null && root.right == null) {
             res += newNow;

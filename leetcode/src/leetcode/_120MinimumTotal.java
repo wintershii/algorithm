@@ -24,11 +24,16 @@ import java.util.List;
  * 链接：https://leetcode-cn.com/problems/triangle
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-public class MinimumTotal_120 {
+public class _120MinimumTotal {
 
     int min = Integer.MAX_VALUE;
 
 
+    /**
+     * dp
+     * @param triangle
+     * @return
+     */
     public int minimumTotal(List<List<Integer>> triangle) {
 //        search(0,triangle,0,0);
 //        return min;

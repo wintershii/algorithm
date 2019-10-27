@@ -6,7 +6,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * 给定一个非负整数 numRows，生成杨辉三角的前 numRows 行。
+ * 给定一个非负整数 s，numRow生成杨辉三角的前 numRows 行。
  *
  *
  *
@@ -28,7 +28,7 @@ import java.util.List;
  * 链接：https://leetcode-cn.com/problems/pascals-triangle
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-public class Generate_118 {
+public class _118Generate {
     public List<List<Integer>> generate(int numRows) {
         if (numRows == 0) {
             return new ArrayList<>();
@@ -59,7 +59,7 @@ public class Generate_118 {
     }
 
     public static void main(String[] args) {
-        System.out.println(new Generate_118().getRow(3));
+        System.out.println(new _118Generate().getRow(3));
     }
 
 

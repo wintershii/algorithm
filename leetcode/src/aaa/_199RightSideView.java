@@ -26,10 +26,38 @@ import java.util.List;
  * 链接：https://leetcode-cn.com/problems/binary-tree-right-side-view
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-public class RightSideView_199 {
+public class _199RightSideView {
 
 
+    /**
+     * 不占用额外空间,递归进行
+     */
+    public List<Integer> rightSideView2(TreeNode root) {
+        List<Integer> res = new ArrayList<>();
+        if (root == null) {
+            return res;
+        }
+        search(root,res,0);
+        return res;
+    }
 
+    private void search(TreeNode root, List<Integer> res, int depth) {
+        if (root == null) {
+            return;
+        }
+        if (res.size() == depth) {
+            res.add(root.val);
+        }
+        search(root.right,res,depth+1);
+        search(root.left,res,depth+1);
+    }
+
+
+    /**
+     * 层序遍历,每次将最后一个元素保存
+     * @param root
+     * @return
+     */
     public List<Integer> rightSideView(TreeNode root) {
         if (root == null) {
             return new ArrayList<>();
