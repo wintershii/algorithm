@@ -19,14 +19,16 @@ import java.util.LinkedList;
  * 链接：https://leetcode-cn.com/problems/reorder-list
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-public class ReorderList_143 {
+public class _143ReorderList {
     public void reorderList(ListNode head) {
         LinkedList<ListNode> list = new LinkedList<>();
         ListNode node = head;
+        //将所有节点放入双端队列
         while (node != null) {
             list.addLast(node);
             node = node.next;
         }
+        //一个个出
         while (!list.isEmpty()) {
             if (node == null) {
                 node = list.pollFirst();

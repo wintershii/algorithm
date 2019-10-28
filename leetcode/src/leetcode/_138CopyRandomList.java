@@ -27,7 +27,7 @@ package leetcode;
  * 链接：https://leetcode-cn.com/problems/copy-list-with-random-pointer
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-public class CopyRandomList_138 {
+public class _138CopyRandomList {
     public Node copyRandomList(Node head) {
         if(head == null) {
             return null;

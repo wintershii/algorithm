@@ -27,20 +27,13 @@ import java.util.List;
  * 链接：https://leetcode-cn.com/problems/insertion-sort-list
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-public class InsertionSortList_147 {
+public class _147InsertionSortList {
 
-    public static void main(String[] args) {
-        ListNode node = new ListNode(4);
-        ListNode node1 = new ListNode(2);
-        ListNode node2 = new ListNode(1);
-        ListNode node3 = new ListNode(3);
-        node.next = node1;
-        node1.next = node2;
-        node2.next = node3;
-        node3.next = null;
-        print(new InsertionSortList_147().insertionSortList(node));
-    }
-
+    /**
+     * 对链表进行插入排序
+     * @param head
+     * @return
+     */
     public ListNode insertionSortList(ListNode head) {
         if (head == null || head.next == null)
             return head;
@@ -53,11 +46,16 @@ public class InsertionSortList_147 {
                 pre = pre.next;
                 next = next.next;
             } else {
+                //跳过当前节点.
                 pre.next = next.next;
+                //保存喜爱个节点.
                 ListNode newNex = next.next;
+                //回到头结点
                 ListNode tmp = real;
+                //找到当前节点该放的位置
                 while (next.val > tmp.next.val)
                     tmp = tmp.next;
+                //放在该节点前面.
                 next.next = tmp.next;
                 tmp.next = next;
                 next = newNex;
