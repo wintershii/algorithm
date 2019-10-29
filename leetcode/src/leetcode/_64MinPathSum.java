@@ -1,6 +1,9 @@
 package leetcode;
 
-public class MinPathSum_64 {
+/**
+ * 最短路径,直接dp
+ */
+public class _64MinPathSum {
     public int minPathSum(int[][] grid) {
         int m = grid.length;
         int n = grid[0].length;

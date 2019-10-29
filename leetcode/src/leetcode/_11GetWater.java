@@ -1,10 +1,15 @@
 package leetcode;
 
-public class GetWater_11 {
-    public static void main(String[] args) {
-        System.out.println(new GetWater_11().maxArea(new int[]{1,8,6,2,5,4,8,3,7}));
-    }
+/**
+ * 盛水最多的容器
+ */
+public class _11GetWater {
 
+    /**
+     * 每次盛水量就是两边双指针的次高值乘以j-i
+     * @param height
+     * @return
+     */
     public int maxArea(int[] height) {
         int i = 0, j = height.length - 1;
         int ans = 0;

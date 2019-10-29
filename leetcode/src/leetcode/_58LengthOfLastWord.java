@@ -1,10 +1,7 @@
 package leetcode;
 
-public class LengthOfLastWord_58 {
+public class _58LengthOfLastWord {
 
-    public static void main(String[] args) {
-        System.out.println(new LengthOfLastWord_58().lengthOfLastWord(" "));
-    }
     public int lengthOfLastWord(String s) {
         int count = 0;
         s = s.trim();

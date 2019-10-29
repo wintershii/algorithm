@@ -1,12 +1,16 @@
 package leetcode;
 
-public class CompareVersion_165 {
+/**
+ * 比较版本号
+ */
+public class _165CompareVersion {
 
-    public static void main(String[] args) {
-        System.out.println(new CompareVersion_165().compareVersion("7.5.2.4","7.5.3"));
-    }
-
-
+    /**
+     * 先用.分开成字符串数组
+     * @param version1
+     * @param version2
+     * @return
+     */
     public int compareVersion(String version1, String version2) {
         String[] v1 = version1.split("\\.");
         String[] v2 = version2.split("\\.");

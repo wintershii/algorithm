@@ -1,8 +1,9 @@
 package leetcode;
 
-import java.util.HashMap;
-
-public class HammingWeight_191 {
+/**
+ * 二进制1的个数
+ */
+public class _191HammingWeight {
     public int hammingWeight(int n) {
 
         int res = 0;

@@ -20,10 +20,10 @@ import java.util.List;
  * 链接：https://leetcode-cn.com/problems/repeated-dna-sequences
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-public class FindRepeatedDnaSequences_187 {
+public class _187FindRepeatedDnaSequences {
 
     public static void main(String[] args) {
-        System.out.println(new FindRepeatedDnaSequences_187().findRepeatedDnaSequences("AAAAACCCCCAAAAACCCCCCAAAAAGGGTTT"));
+        System.out.println(new _187FindRepeatedDnaSequences().findRepeatedDnaSequences("AAAAACCCCCAAAAACCCCCCAAAAAGGGTTT"));
     }
 
     public List<String> findRepeatedDnaSequences(String s) {

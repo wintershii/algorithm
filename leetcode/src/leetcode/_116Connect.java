@@ -44,7 +44,7 @@ class Node1 {
     }
 };
 
-public class Connect_116 {
+public class _116Connect {
     public Node1 connect(Node1 root) {
         if(root == null || root.left == null) {
             return root;
