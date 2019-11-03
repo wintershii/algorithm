@@ -24,6 +24,10 @@ import java.util.List;
  */
 public class _5SearchSmallerCount {
 
+    public static void main(String[] args) {
+        System.out.println(new _5SearchSmallerCount().countSmaller(new int[]{5,2,6,1}));
+    }
+
     /**
      * 思路一 : 暴力解题 O(n^2)
      * 思路二 : 构建二插排序树并不断插入计算
@@ -37,7 +41,7 @@ public class _5SearchSmallerCount {
         BSTNode root = null;
         List<Integer> res = new ArrayList<>();
         for (int i = 0; i < nums.length; ++i) {
-            res.set(i,0);
+            res.add(i,0);
         }
 
         for (int i = nums.length - 1; i >=0; --i) {

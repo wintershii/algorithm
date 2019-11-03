@@ -1,5 +1,7 @@
 package list;
 
+import java.util.HashSet;
+
 /**
  * 题目:两数相加
  * 来源:leetcode字节跳动专栏
@@ -82,7 +84,6 @@ public class TwoNumSum {
             if (carry) {
                 l1 = new ListNode(1);
                 before.next = l1;
-                before = before.next;
             }
         }
 

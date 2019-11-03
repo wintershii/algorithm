@@ -16,7 +16,7 @@ public class _2SearchInsertPosition {
             if (target == nums[mid]) {
                 return mid;
             } else if (target < nums[mid]) {
-                if (mid == 0 || target > nums[mid] - 1) {
+                if (mid == 0 || target > nums[mid - 1]) {
                     return mid;
                 }
                 right = mid - 1;

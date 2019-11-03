@@ -6,14 +6,6 @@ package list;
  */
 public class ReverseLinkedList {
 
-    public static void main(String[] args) {
-        ListNode l = MergeLinkedList.createList();
-        MergeLinkedList.printList(l);
-        ListNode l2 = new ReverseLinkedList().reverse(l);
-        MergeLinkedList.printList(l2);
-    }
-
-
     /**
      * 迭代反转链表的答案
      * @param head
@@ -40,22 +32,6 @@ public class ReverseLinkedList {
     }
 
 
-    /**
-     * 自己实现的递归反转
-     * @param head
-     * @return
-     */
-    public ListNode reverse(ListNode head) {
-        if (head == null) {
-            return head;
-        }
-        ListNode node = head;
-        while (node.next != null) {
-            node = node.next;
-        }
-        new ReverseLinkedList().reverseList(head);
-        return node;
-    }
 
     /**
      * 递归反转链表
@@ -69,7 +45,7 @@ public class ReverseLinkedList {
         ListNode node = reverseList(head.next);
         head.next = null;
         node.next = head;
-        return head;
+        return node;
     }
 
 
