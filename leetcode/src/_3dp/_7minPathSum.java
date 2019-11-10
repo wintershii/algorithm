@@ -27,6 +27,7 @@ public class _7minPathSum {
                 } else {
                     dp[i][j] = Math.min(dp[i-1][j],dp[i][j-1]) + grid[i][j];
                 }
+
             }
         }
         return dp[n-1][n-1];
