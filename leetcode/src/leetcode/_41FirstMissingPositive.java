@@ -1,5 +1,9 @@
 package leetcode;
 
+/**
+ * 第一个丢失的正整数
+ * 思路:将i放在i-1位置上
+ */
 public class _41FirstMissingPositive {
 
     public static void main(String[] args) {
@@ -7,21 +11,11 @@ public class _41FirstMissingPositive {
     }
 
     public int firstMissingPositive(int[] nums) {
-        if (nums == null || nums.length == 0) {
-            return 1;
-        }
         for (int i = 0; i < nums.length; ++i) {
-            if (nums[i] == i + 1) {
-                continue;
-            }
-            if (nums[i] > 0 && nums[i] <= nums.length) {
-                if (nums[i] < nums.length && nums[i]+1 == nums[nums[i]]) {
-                    continue;
-                }
-                int tmp = nums[nums[i] - 1];
-                nums[nums[i] - 1] = nums[i];
-                nums[i] = tmp;
-                i--;
+            while (nums[i] > 0 && nums[i] <= nums.length && nums[i] != nums[nums[i] - 1]) {
+                int tmp = nums[i];
+                nums[i] = nums[nums[i] - 1];
+                nums[tmp - 1] = tmp;
             }
         }
         for (int i = 0; i < nums.length; ++i) {
