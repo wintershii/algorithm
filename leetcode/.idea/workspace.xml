@@ -2,19 +2,160 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="876a0187-0bf6-45e9-8d4a-1df2ccb6760c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode2/ReversePairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode2/_225MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/microsoft/_200NumIsland.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/microsoft/_8ATOI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NumConverter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tencent/_01huobi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tencent/_02shulie.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tencent/_03caiquan.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tencent/_04daqiang.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tencent/huayuan.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/toutiao/_03yuesefu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/toutiao/_04jianshengzi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/NumConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/_1binaryfind/BSTNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/_1binaryfind/_1BinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/_1binaryfind/_2SearchInsertPosition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/_1binaryfind/_3SearchRange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/_1binaryfind/_4SearchInverseArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/_1binaryfind/_5SearchSmallerCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/_2digui/_1GetSonSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/_2digui/_2GetDifSonSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/_2digui/_3GetTargetSonSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/_2digui/_4LegelKuohao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/_3dp/BugAndSellStock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/_3dp/_1UpStair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/_3dp/_2RobHome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/_3dp/_3MaxSubmentSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/_3dp/_4CoinChange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/_3dp/_4Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/_3dp/_6LengthOfLIS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/_3dp/_7minPathSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/_4linklist/RandomListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/_4linklist/SortList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/_4linklist/_1ReverseList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/_4linklist/_2gtIntsersection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/_4linklist/_3ListCycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/_4linklist/_4PartitionList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/_4linklist/_5CopyList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/_4linklist/_6MergeList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/_5sort/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/_5sort/HeapSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/_5sort/InsertSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/_5sort/MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/_5sort/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/_5sort/SelectSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/_5sort/ShellSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/_6stack/MinStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/_6stack/_1LegelPop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/_6stack/_2KNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/_8tree/_1SumPathOfTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/_8tree/_3RightSideViewTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/_8tree/_LowestCommonAncestor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/_8tree/_MaxRoute.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/_9hash/_1LongestString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/_9hash/_2LongestSonString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/_9hash/_3SmallestWindowString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/array/FindLongestConsecutive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/array/FindLongestIncresedArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/array/FriendsZone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/array/GetRain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/array/Interval.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/array/MergeGap$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/array/MergeGap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/array/SearchCircleSortArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/array/TheBigestAreaOfIsland.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/array/TheNArrangement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/array/TheNumerKOfArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/array/ThreeNumSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/_41FirstMissingPositive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/_41FirstMissingPositive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/list/DetectCircleList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/list/GetIntersectionNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/list/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/list/MergeKLinkedLists.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/list/MergeLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/list/ReverseLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/list/SortList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/list/TwoNumSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/string/Attom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/string/FindLongestNotRepeatedSonString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/string/LongestCommonPrefix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/string/MultiplyString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/string/RecoverTheIpAddress.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/string/ReverseTheWordOfString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/string/TheArrangementOfString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/string/_71SimplifiedPath.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/tencent/_01huobi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/tencent/_02shulie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/tencent/_03caiquan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/tencent/_04daqiang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/toutiao/_03yuesefu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/toutiao/_04jianshengzi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_1binaryfind/_1BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/_1binaryfind/_1BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_1binaryfind/_2SearchInsertPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/_1binaryfind/_2SearchInsertPosition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_1binaryfind/_3SearchRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/_1binaryfind/_3SearchRange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_1binaryfind/_4SearchInverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/_1binaryfind/_4SearchInverseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_1binaryfind/_5SearchSmallerCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/_1binaryfind/_5SearchSmallerCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_2digui/_1GetSonSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/_2digui/_1GetSonSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_2digui/_2GetDifSonSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/_2digui/_2GetDifSonSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_2digui/_3GetTargetSonSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/_2digui/_3GetTargetSonSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_2digui/_4LegelKuohao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/_2digui/_4LegelKuohao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_3dp/BugAndSellStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/_3dp/BugAndSellStock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_3dp/_1UpStair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/_3dp/_1UpStair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_3dp/_2RobHome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/_3dp/_2RobHome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_3dp/_3MaxSubmentSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/_3dp/_3MaxSubmentSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_3dp/_4CoinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/_3dp/_4CoinChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_3dp/_4Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/_3dp/_4Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_3dp/_6LengthOfLIS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/_3dp/_6LengthOfLIS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_3dp/_7minPathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/_3dp/_7minPathSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_4linklist/SortList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/_4linklist/SortList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_4linklist/_1ReverseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/_4linklist/_1ReverseList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_4linklist/_2gtIntsersection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/_4linklist/_2gtIntsersection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_4linklist/_3ListCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/_4linklist/_3ListCycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_4linklist/_4PartitionList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/_4linklist/_4PartitionList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_4linklist/_5CopyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/_4linklist/_5CopyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_4linklist/_6MergeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/_4linklist/_6MergeList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_5sort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/_5sort/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_5sort/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/_5sort/HeapSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_5sort/InsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/_5sort/InsertSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_5sort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/_5sort/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_5sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/_5sort/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_5sort/SelectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/_5sort/SelectSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_5sort/ShellSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/_5sort/ShellSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_6stack/MinStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/_6stack/MinStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_6stack/_1LegelPop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/_6stack/_1LegelPop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_6stack/_2KNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/_6stack/_2KNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_8tree/_1SumPathOfTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/_8tree/_1SumPathOfTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_8tree/_3RightSideViewTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/_8tree/_3RightSideViewTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_8tree/_LowestCommonAncestor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/_8tree/_LowestCommonAncestor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_8tree/_MaxRoute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/_8tree/_MaxRoute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_9hash/_1LongestString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/_9hash/_1LongestString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_9hash/_2LongestSonString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/_9hash/_2LongestSonString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_9hash/_3SmallestWindowString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/_9hash/_3SmallestWindowString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/FindLongestConsecutive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/array/FindLongestConsecutive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/FindLongestIncresedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/array/FindLongestIncresedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/FriendsZone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/array/FriendsZone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/GetRain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/array/GetRain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/Interval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/array/Interval.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/MergeGap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/array/MergeGap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/SearchCircleSortArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/array/SearchCircleSortArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/TheBigestAreaOfIsland.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/array/TheBigestAreaOfIsland.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/TheNArrangement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/array/TheNArrangement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/TheNumerKOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/array/TheNumerKOfArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/ThreeNumSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/array/ThreeNumSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/MajorityElement_169.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/MajorityElement_169.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list/DetectCircleList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/list/DetectCircleList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list/GetIntersectionNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/list/GetIntersectionNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/list/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list/MergeKLinkedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/list/MergeKLinkedLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list/MergeLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/list/MergeLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list/ReverseLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/list/ReverseLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list/SortList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/list/SortList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list/TwoNumSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/list/TwoNumSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/FindLongestNotRepeatedSonString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/string/FindLongestNotRepeatedSonString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/string/LongestCommonPrefix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/MultiplyString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/string/MultiplyString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/RecoverTheIpAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/string/RecoverTheIpAddress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/ReverseTheWordOfString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/string/ReverseTheWordOfString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/TheArrangementOfString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/string/TheArrangementOfString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/_71SimplifiedPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classify/string/_71SimplifiedPath.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,20 +237,7 @@
       <recent name="leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._41FirstMissingPositive">
-    <configuration name="CutNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer.CutNode" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application._200NumIsland">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="algorithm" />
@@ -117,12 +245,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_354MaxEnvelopes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode._354MaxEnvelopes" />
+    <configuration name="_200NumIsland" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="microsoft._200NumIsland" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.*" />
+          <option name="PATTERN" value="microsoft.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +272,24 @@
       </method>
     </configuration>
     <configuration name="_5SearchSmallerCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_1binaryfind._5SearchSmallerCount" />
+      <option name="MAIN_CLASS_NAME" value="classify._1binaryfind._5SearchSmallerCount" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_1binaryfind.*" />
+          <option name="PATTERN" value="classify._1binaryfind.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_8ATOI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="microsoft._8ATOI" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="microsoft.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,18 +299,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.CutNode" />
-      <item itemvalue="Application._354MaxEnvelopes" />
       <item itemvalue="Application._5SearchSmallerCount" />
       <item itemvalue="Application._41FirstMissingPositive" />
+      <item itemvalue="Application._8ATOI" />
+      <item itemvalue="Application._200NumIsland" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._200NumIsland" />
+        <item itemvalue="Application._8ATOI" />
         <item itemvalue="Application._41FirstMissingPositive" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application._5SearchSmallerCount" />
-        <item itemvalue="Application._354MaxEnvelopes" />
-        <item itemvalue="Application.CutNode" />
       </list>
     </recent_temporary>
   </component>
@@ -372,12 +513,51 @@
       <workItem from="1573020391636" duration="7012000" />
       <workItem from="1573344249533" duration="3941000" />
       <workItem from="1573562902751" duration="2059000" />
-      <workItem from="1582979696787" duration="2142000" />
+      <workItem from="1582979696787" duration="2216000" />
+      <workItem from="1583067439421" duration="5043000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1859" height="355" key="GridCell.Tab.0.bottom" timestamp="1583072272379">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1859" height="355" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583072272379" />
+    <state width="1859" height="355" key="GridCell.Tab.0.center" timestamp="1583072272379">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1859" height="355" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583072272379" />
+    <state width="1859" height="355" key="GridCell.Tab.0.left" timestamp="1583072272379">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1859" height="355" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583072272379" />
+    <state width="1859" height="355" key="GridCell.Tab.0.right" timestamp="1583072272379">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1859" height="355" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583072272379" />
+    <state width="1859" height="338" key="GridCell.Tab.1.bottom" timestamp="1583070574004">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1859" height="338" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583070574004" />
+    <state width="1859" height="338" key="GridCell.Tab.1.center" timestamp="1583070574004">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1859" height="338" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583070574004" />
+    <state width="1859" height="338" key="GridCell.Tab.1.left" timestamp="1583070574004">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1859" height="338" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583070574004" />
+    <state width="1859" height="338" key="GridCell.Tab.1.right" timestamp="1583070574004">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1859" height="338" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583070574004" />
+    <state x="652" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1583067439983">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="652" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583067439983" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -386,6 +566,16 @@
           <url>file://$PROJECT_DIR$/src/leetcode/_354MaxEnvelopes.java</url>
           <line>30</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/microsoft/_8ATOI.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/microsoft/_8ATOI.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

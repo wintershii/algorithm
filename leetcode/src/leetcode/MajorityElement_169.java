@@ -22,7 +22,7 @@ import java.util.Arrays;
  */
 public class MajorityElement_169 {
     public int majorityElement(int[] nums) {
-//        Arrays._5sort(nums);
+//        Arrays.classify._5sort(nums);
 //        return nums[nums.length/2];
 
         int count = 1;
