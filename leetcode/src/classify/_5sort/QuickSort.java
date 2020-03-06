@@ -12,7 +12,7 @@ public class QuickSort {
     public void quickSort(int[] array, int left, int right) {
         if (left < right) {
             //调整数组, 并找到基准值的位置
-            int mid = division(array,left,array.length-1);
+            int mid = division(array,left,right);
             //对分别对左边和右边进行快速排序
             quickSort(array,left,mid-1);
             quickSort(array,mid+1,right);
