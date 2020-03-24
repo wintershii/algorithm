@@ -1,10 +1,10 @@
 package ali;
 
+import java.util.LinkedHashMap;
 import java.util.Scanner;
+import java.util.TreeMap;
 
 public class Main {
-
-
     /**
      * 思路：找到通项公式： sum = 2 * 2^(n-1)
      * 然后用快速幂
