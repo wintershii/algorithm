@@ -10,6 +10,7 @@ public class Main {
      * 然后用快速幂
      */
     public static void main(String[] args) {
+
         Scanner scan = new Scanner(System.in);
         int n = scan.nextInt();
         System.out.println((n * fastPower(2,(int)(Math.pow(10,9) + 7),n-1)) % (int)(Math.pow(10,9) + 7));
@@ -19,7 +20,7 @@ public class Main {
         if (n == 0) {
             return 1 % b;
         }
-        long ans = 1l;
+        long ans = 1;
         long base = a % b;
         while (n != 0) {
             if ((n & 1) == 1) {
