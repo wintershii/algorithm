@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="876a0187-0bf6-45e9-8d4a-1df2ccb6760c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/p05/MinWindow_76.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p05/FindMedian_4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -37,27 +37,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/a/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/p05/MinWindow_76.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="459">
+              <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#127#128#0" expanded="true" />
-                <element signature="e#194#195#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/p05/MinWindow_76.java">
+        <entry file="file://$PROJECT_DIR$/src/p05/FindMedian_4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="60">
+              <caret line="31" column="66" selection-start-line="31" selection-start-column="66" selection-end-line="31" selection-end-column="66" />
             </state>
           </provider>
         </entry>
@@ -192,6 +187,8 @@
         <option value="$PROJECT_DIR$/src/ProducerAndConsumer.java" />
         <option value="$PROJECT_DIR$/src/a/Main.java" />
         <option value="$PROJECT_DIR$/src/p05/MinWindow_76.java" />
+        <option value="$PROJECT_DIR$/src/p05/FindMedian.java" />
+        <option value="$PROJECT_DIR$/src/p05/FindMedian_4.java" />
       </list>
     </option>
   </component>
@@ -234,6 +231,12 @@
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="p05" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -250,10 +253,11 @@
     <property name="SearchEverywhereHistoryKey" value="41&#9;PSI&#9;JAVA://leetcode._41FirstMissingPositive&#10;reverse&#9;PSI&#9;JAVA://_4linklist._1ReverseList&#10;k&#9;FILE&#9;file:///home/shidongxuan/Algorithm/leetcode/src/leetcode/_25ReverseKGroup.java&#10;rever&#9;FILE&#9;file:///home/shidongxuan/Algorithm/leetcode/src/list/ReverseLinkedList.java&#10;Z&#9;FILE&#9;file:///home/shidongxuan/Algorithm/leetcode/src/leetcode/_103ZigzagLevelOrder.java&#10;Lr&#9;PSI&#9;JAVA://aaa.LRUCache&#10;147&#9;PSI&#9;JAVA://aaa.InsertionSortList_147&#10;143&#9;PSI&#9;JAVA://leetcode.ReorderList_143&#10;Dete&#9;FILE&#9;file:///home/shidongxuan/Algorithm/leetcode/src/list/DetectCircleList.java&#10;142&#9;PSI&#9;JAVA://sun.nio.cs.ext.IBM1142&#10;141&#9;PSI&#9;JAVA://leetcode.HasCycle_141&#10;139&#9;PSI&#9;JAVA://leetcode.WordBreak_139&#10;138&#9;PSI&#9;JAVA://leetcode.CopyRandomList_138&#10;199&#9;PSI&#9;JAVA://aaa.RightSideView_199&#10;137&#9;PSI&#9;JAVA://leetcode.SingleNumber_137&#10;136&#9;PSI&#9;JAVA://leetcode.SingleNumber_136&#10;129&#9;FILE&#9;file:///home/shidongxuan/Algorithm/leetcode/src/leetcode/SumNumbers_129.java&#10;125&#9;PSI&#9;JAVA://leetcode.IsPalindrome_125&#10;122&#9;PSI&#9;JAVA://leetcode.MaxProfit_122&#10;120&#9;PSI&#9;JAVA://leetcode.MinimumTotal_120&#10;118&#9;FILE&#9;file:///home/shidongxuan/Algorithm/leetcode/src/leetcode/Generate_118.java&#10;114&#9;FILE&#9;file:///home/shidongxuan/Algorithm/leetcode/src/leetcode/Flatten_114.java&#10;113&#9;FILE&#9;file:///home/shidongxuan/Algorithm/leetcode/src/leetcode/PathSum_113.java&#10;116&#9;PSI&#9;JAVA://leetcode.Connect_116&#10;112&#9;PSI&#9;JAVA://leetcode.HasPathSum_112&#10;111&#9;PSI&#9;JAVA://leetcode.MinDepth_111&#10;110&#9;FILE&#9;file:///home/shidongxuan/Algorithm/leetcode/src/leetcode/IsBalanced_110.java&#10;109&#9;PSI&#9;JAVA://leetcode.sortedListToBST_109&#10;108&#9;PSI&#9;JAVA://leetcode.SortedArrayToBST_108&#10;107&#9;PSI&#9;JAVA://leetcode.LevelOrderBottom_107&#10;105&#9;PSI&#9;JAVA://leetcode.BuildTree_105&#10;104&#9;PSI&#9;JAVA://leetcode.MaxDepth_104&#10;103&#9;PSI&#9;JAVA://leetcode.ZigzagLevelOrder_103&#10;_102&#9;FILE&#9;file:///home/shidongxuan/Algorithm/leetcode/src/leetcode/_102LevelOrder.java&#10;_101&#9;FILE&#9;file:///home/shidongxuan/Algorithm/leetcode/src/leetcode/_101IsSymmetric.java&#10;102&#9;PSI&#9;JAVA://leetcode.LevelOrder_102&#10;101&#9;PSI&#9;JAVA://leetcode.IsSymmetric_101&#10;66&#9;PSI&#9;JAVA://leetcode.PlusOne_66&#10;69&#9;PSI&#9;JAVA://leetcode.MySqrt_69&#10;70&#9;PSI&#9;JAVA://leetcode.ClimbStairs_70&#10;Sim&#9;PSI&#9;JAVA://string.SimplifiedPath&#10;Simp&#9;PSI&#9;JAVA://string.SimplifiedPath&#10;74&#9;PSI&#9;JAVA://leetcode.SearchMatrix_74&#10;75&#9;PSI&#9;JAVA://leetcode.SortColors_75&#10;Win&#9;PSI&#9;JAVA://_9hash._3SmallestWindowString&#10;77&#9;PSI&#9;JAVA://leetcode.Combine_77&#10;78&#9;PSI&#9;JAVA://leetcode.SubSet_78&#10;79&#9;PSI&#9;JAVA://leetcode.ExistWord_79&#10;80&#9;PSI&#9;JAVA://leetcode.RemoveDuplicates2_80&#10;81&#9;PSI&#9;JAVA://leetcode.Search2_81" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590235525499" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590316570388" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -277,7 +281,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MinWindow_76">
+  <component name="RunManager" selected="Application.FindMedian_4">
+    <configuration name="FindMedian_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p05.FindMedian_4" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="p05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="a.Main" />
       <module name="algorithm" />
@@ -324,27 +341,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StreamTest" />
-      <module name="algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.StreamTest" />
       <item itemvalue="Application.PMain" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.MinWindow_76" />
+      <item itemvalue="Application.FindMedian_4" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindMedian_4" />
         <item itemvalue="Application.MinWindow_76" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.PMain" />
-        <item itemvalue="Application.StreamTest" />
       </list>
     </recent_temporary>
   </component>
@@ -572,12 +582,13 @@
       <workItem from="1586678487764" duration="4555000" />
       <workItem from="1587193747642" duration="2532000" />
       <workItem from="1589420966748" duration="106000" />
-      <workItem from="1590228101595" duration="7197000" />
+      <workItem from="1590228101595" duration="7555000" />
+      <workItem from="1590311448429" duration="4730000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72188000" />
+    <option name="totallyTimeSpent" value="77276000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -592,7 +603,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19402985" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19616205" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -601,15 +612,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.28277355" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.45937163" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.46478873" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.43987" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32827735" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -725,6 +736,24 @@
           <properties />
           <option name="timeStamp" value="19" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/p05/FindMedian_4.java</url>
+          <line>116</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/p05/FindMedian_4.java</url>
+          <line>137</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/p05/FindMedian_4.java</url>
+          <line>92</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -733,13 +762,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/classify/_3dp/_7minPathSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="27" column="28" lean-forward="true" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/classify/_3dp/BugAndSellStock.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
@@ -1043,6 +1065,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/a/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/UniquePath_62.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="837">
@@ -1120,25 +1154,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/a/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/p05/MinWindow_76.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="459">
+          <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#127#128#0" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/p05/MinWindow_76.java">
+    <entry file="file://$PROJECT_DIR$/src/p05/FindMedian_4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="60">
+          <caret line="31" column="66" selection-start-line="31" selection-start-column="66" selection-end-line="31" selection-end-column="66" />
         </state>
       </provider>
     </entry>
