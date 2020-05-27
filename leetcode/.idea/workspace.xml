@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="876a0187-0bf6-45e9-8d4a-1df2ccb6760c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/p05/FindDuplicate_287.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p05/SubarrayDivByK_974.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -37,22 +37,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/p05/LRUCache.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/p05/FindDuplicate_287.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="573">
-              <caret line="30" column="30" lean-forward="true" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+            <state relative-caret-position="677">
+              <caret line="41" column="20" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -61,10 +49,25 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/UniquePath_62.java">
+        <entry file="file://$PROJECT_DIR$/src/p05/SubarrayDivByK_974.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="837">
-              <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+            <state relative-caret-position="309">
+              <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/p05/SubarrayNum_560.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="18" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -195,6 +198,8 @@
         <option value="$PROJECT_DIR$/src/p05/LRUCache_146.java" />
         <option value="$PROJECT_DIR$/src/p05/LRUCache.java" />
         <option value="$PROJECT_DIR$/src/p05/FindDuplicate_287.java" />
+        <option value="$PROJECT_DIR$/src/p05/SubarrayDivByK_974.java" />
+        <option value="$PROJECT_DIR$/src/p05/SubarrayNum_560.java" />
       </list>
     </option>
   </component>
@@ -225,7 +230,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -248,7 +253,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -259,7 +264,7 @@
     <property name="SearchEverywhereHistoryKey" value="41&#9;PSI&#9;JAVA://leetcode._41FirstMissingPositive&#10;reverse&#9;PSI&#9;JAVA://_4linklist._1ReverseList&#10;k&#9;FILE&#9;file:///home/shidongxuan/Algorithm/leetcode/src/leetcode/_25ReverseKGroup.java&#10;rever&#9;FILE&#9;file:///home/shidongxuan/Algorithm/leetcode/src/list/ReverseLinkedList.java&#10;Z&#9;FILE&#9;file:///home/shidongxuan/Algorithm/leetcode/src/leetcode/_103ZigzagLevelOrder.java&#10;Lr&#9;PSI&#9;JAVA://aaa.LRUCache&#10;147&#9;PSI&#9;JAVA://aaa.InsertionSortList_147&#10;143&#9;PSI&#9;JAVA://leetcode.ReorderList_143&#10;Dete&#9;FILE&#9;file:///home/shidongxuan/Algorithm/leetcode/src/list/DetectCircleList.java&#10;142&#9;PSI&#9;JAVA://sun.nio.cs.ext.IBM1142&#10;141&#9;PSI&#9;JAVA://leetcode.HasCycle_141&#10;139&#9;PSI&#9;JAVA://leetcode.WordBreak_139&#10;138&#9;PSI&#9;JAVA://leetcode.CopyRandomList_138&#10;199&#9;PSI&#9;JAVA://aaa.RightSideView_199&#10;137&#9;PSI&#9;JAVA://leetcode.SingleNumber_137&#10;136&#9;PSI&#9;JAVA://leetcode.SingleNumber_136&#10;129&#9;FILE&#9;file:///home/shidongxuan/Algorithm/leetcode/src/leetcode/SumNumbers_129.java&#10;125&#9;PSI&#9;JAVA://leetcode.IsPalindrome_125&#10;122&#9;PSI&#9;JAVA://leetcode.MaxProfit_122&#10;120&#9;PSI&#9;JAVA://leetcode.MinimumTotal_120&#10;118&#9;FILE&#9;file:///home/shidongxuan/Algorithm/leetcode/src/leetcode/Generate_118.java&#10;114&#9;FILE&#9;file:///home/shidongxuan/Algorithm/leetcode/src/leetcode/Flatten_114.java&#10;113&#9;FILE&#9;file:///home/shidongxuan/Algorithm/leetcode/src/leetcode/PathSum_113.java&#10;116&#9;PSI&#9;JAVA://leetcode.Connect_116&#10;112&#9;PSI&#9;JAVA://leetcode.HasPathSum_112&#10;111&#9;PSI&#9;JAVA://leetcode.MinDepth_111&#10;110&#9;FILE&#9;file:///home/shidongxuan/Algorithm/leetcode/src/leetcode/IsBalanced_110.java&#10;109&#9;PSI&#9;JAVA://leetcode.sortedListToBST_109&#10;108&#9;PSI&#9;JAVA://leetcode.SortedArrayToBST_108&#10;107&#9;PSI&#9;JAVA://leetcode.LevelOrderBottom_107&#10;105&#9;PSI&#9;JAVA://leetcode.BuildTree_105&#10;104&#9;PSI&#9;JAVA://leetcode.MaxDepth_104&#10;103&#9;PSI&#9;JAVA://leetcode.ZigzagLevelOrder_103&#10;_102&#9;FILE&#9;file:///home/shidongxuan/Algorithm/leetcode/src/leetcode/_102LevelOrder.java&#10;_101&#9;FILE&#9;file:///home/shidongxuan/Algorithm/leetcode/src/leetcode/_101IsSymmetric.java&#10;102&#9;PSI&#9;JAVA://leetcode.LevelOrder_102&#10;101&#9;PSI&#9;JAVA://leetcode.IsSymmetric_101&#10;66&#9;PSI&#9;JAVA://leetcode.PlusOne_66&#10;69&#9;PSI&#9;JAVA://leetcode.MySqrt_69&#10;70&#9;PSI&#9;JAVA://leetcode.ClimbStairs_70&#10;Sim&#9;PSI&#9;JAVA://string.SimplifiedPath&#10;Simp&#9;PSI&#9;JAVA://string.SimplifiedPath&#10;74&#9;PSI&#9;JAVA://leetcode.SearchMatrix_74&#10;75&#9;PSI&#9;JAVA://leetcode.SortColors_75&#10;Win&#9;PSI&#9;JAVA://_9hash._3SmallestWindowString&#10;77&#9;PSI&#9;JAVA://leetcode.Combine_77&#10;78&#9;PSI&#9;JAVA://leetcode.SubSet_78&#10;79&#9;PSI&#9;JAVA://leetcode.ExistWord_79&#10;80&#9;PSI&#9;JAVA://leetcode.RemoveDuplicates2_80&#10;81&#9;PSI&#9;JAVA://leetcode.Search2_81" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590478386577" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590542134033" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -287,7 +292,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FindDuplicate_287">
+  <component name="RunManager" selected="Application.SubarrayDivByK_974">
     <configuration name="FindDuplicate_287" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="p05.FindDuplicate_287" />
       <module name="algorithm" />
@@ -327,13 +332,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MinWindow_76" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="p05.MinWindow_76" />
       <module name="algorithm" />
@@ -347,20 +345,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SubarrayDivByK_974" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p05.SubarrayDivByK_974" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="p05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.MinWindow_76" />
       <item itemvalue="Application.FindMedian_4" />
       <item itemvalue="Application.FindDuplicate_287" />
+      <item itemvalue="Application.SubarrayDivByK_974" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SubarrayDivByK_974" />
         <item itemvalue="Application.FindDuplicate_287" />
         <item itemvalue="Application.FindMedian_4" />
         <item itemvalue="Application.MinWindow_76" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -592,12 +603,13 @@
       <workItem from="1590311448429" duration="5054000" />
       <workItem from="1590390432209" duration="1477000" />
       <workItem from="1590457720676" duration="1411000" />
-      <workItem from="1590475538268" duration="2152000" />
+      <workItem from="1590475538268" duration="2336000" />
+      <workItem from="1590537579688" duration="3303000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82640000" />
+    <option name="totallyTimeSpent" value="86127000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -612,7 +624,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20255864" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20469083" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -621,8 +633,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.46478873" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.43987" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.47020584" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.6738895" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
@@ -763,6 +775,18 @@
           <properties />
           <option name="timeStamp" value="25" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/p05/FindDuplicate_287.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/p05/FindDuplicate_287.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -771,20 +795,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/classify/_2digui/_2GetDifSonSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/classify/_2digui/_3GetTargetSonSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="40" column="46" selection-start-line="40" selection-start-column="46" selection-end-line="40" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/classify/_2digui/_4LegelKuohao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="519">
@@ -1082,17 +1092,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/p05/FindMedian_4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/UniquePath_62.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="837">
           <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p05/FindMedian_4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2484">
+          <caret line="92" selection-start-line="92" selection-end-line="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p05/LRUCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1166,20 +1186,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/p05/LRUCache.java">
+    <entry file="file://$PROJECT_DIR$/src/p05/FindDuplicate_287.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        <state relative-caret-position="677">
+          <caret line="41" column="20" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/p05/FindDuplicate_287.java">
+    <entry file="file://$PROJECT_DIR$/src/p05/SubarrayDivByK_974.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="573">
-          <caret line="30" column="30" lean-forward="true" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+        <state relative-caret-position="309">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p05/SubarrayNum_560.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="18" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
