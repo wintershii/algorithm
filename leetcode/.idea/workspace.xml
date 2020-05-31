@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="876a0187-0bf6-45e9-8d4a-1df2ccb6760c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/p05/LargestRectangleArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p05/IsSymmetric_101.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -37,24 +37,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/p05/DecodeString_394.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="891">
-              <caret line="36" column="42" selection-start-line="36" selection-start-column="42" selection-end-line="36" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#150#151#0" expanded="true" />
-                <element signature="e#234#235#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/p05/Rob_198.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+            <state relative-caret-position="486">
+              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
               <folding>
                 <element signature="e#81#82#0" expanded="true" />
                 <element signature="e#156#157#0" expanded="true" />
@@ -63,14 +49,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/p05/LargestRectangleArea.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="33" selection-end-column="19" />
+            <state relative-caret-position="353">
+              <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/p05/IsSymmetric_101.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -206,6 +201,7 @@
         <option value="$PROJECT_DIR$/src/p05/DecodeString_394.java" />
         <option value="$PROJECT_DIR$/src/p05/Rob_198.java" />
         <option value="$PROJECT_DIR$/src/p05/LargestRectangleArea.java" />
+        <option value="$PROJECT_DIR$/src/p05/IsSymmetric_101.java" />
       </list>
     </option>
   </component>
@@ -270,7 +266,7 @@
     <property name="SearchEverywhereHistoryKey" value="41&#9;PSI&#9;JAVA://leetcode._41FirstMissingPositive&#10;reverse&#9;PSI&#9;JAVA://_4linklist._1ReverseList&#10;k&#9;FILE&#9;file:///home/shidongxuan/Algorithm/leetcode/src/leetcode/_25ReverseKGroup.java&#10;rever&#9;FILE&#9;file:///home/shidongxuan/Algorithm/leetcode/src/list/ReverseLinkedList.java&#10;Z&#9;FILE&#9;file:///home/shidongxuan/Algorithm/leetcode/src/leetcode/_103ZigzagLevelOrder.java&#10;Lr&#9;PSI&#9;JAVA://aaa.LRUCache&#10;147&#9;PSI&#9;JAVA://aaa.InsertionSortList_147&#10;143&#9;PSI&#9;JAVA://leetcode.ReorderList_143&#10;Dete&#9;FILE&#9;file:///home/shidongxuan/Algorithm/leetcode/src/list/DetectCircleList.java&#10;142&#9;PSI&#9;JAVA://sun.nio.cs.ext.IBM1142&#10;141&#9;PSI&#9;JAVA://leetcode.HasCycle_141&#10;139&#9;PSI&#9;JAVA://leetcode.WordBreak_139&#10;138&#9;PSI&#9;JAVA://leetcode.CopyRandomList_138&#10;199&#9;PSI&#9;JAVA://aaa.RightSideView_199&#10;137&#9;PSI&#9;JAVA://leetcode.SingleNumber_137&#10;136&#9;PSI&#9;JAVA://leetcode.SingleNumber_136&#10;129&#9;FILE&#9;file:///home/shidongxuan/Algorithm/leetcode/src/leetcode/SumNumbers_129.java&#10;125&#9;PSI&#9;JAVA://leetcode.IsPalindrome_125&#10;122&#9;PSI&#9;JAVA://leetcode.MaxProfit_122&#10;120&#9;PSI&#9;JAVA://leetcode.MinimumTotal_120&#10;118&#9;FILE&#9;file:///home/shidongxuan/Algorithm/leetcode/src/leetcode/Generate_118.java&#10;114&#9;FILE&#9;file:///home/shidongxuan/Algorithm/leetcode/src/leetcode/Flatten_114.java&#10;113&#9;FILE&#9;file:///home/shidongxuan/Algorithm/leetcode/src/leetcode/PathSum_113.java&#10;116&#9;PSI&#9;JAVA://leetcode.Connect_116&#10;112&#9;PSI&#9;JAVA://leetcode.HasPathSum_112&#10;111&#9;PSI&#9;JAVA://leetcode.MinDepth_111&#10;110&#9;FILE&#9;file:///home/shidongxuan/Algorithm/leetcode/src/leetcode/IsBalanced_110.java&#10;109&#9;PSI&#9;JAVA://leetcode.sortedListToBST_109&#10;108&#9;PSI&#9;JAVA://leetcode.SortedArrayToBST_108&#10;107&#9;PSI&#9;JAVA://leetcode.LevelOrderBottom_107&#10;105&#9;PSI&#9;JAVA://leetcode.BuildTree_105&#10;104&#9;PSI&#9;JAVA://leetcode.MaxDepth_104&#10;103&#9;PSI&#9;JAVA://leetcode.ZigzagLevelOrder_103&#10;_102&#9;FILE&#9;file:///home/shidongxuan/Algorithm/leetcode/src/leetcode/_102LevelOrder.java&#10;_101&#9;FILE&#9;file:///home/shidongxuan/Algorithm/leetcode/src/leetcode/_101IsSymmetric.java&#10;102&#9;PSI&#9;JAVA://leetcode.LevelOrder_102&#10;101&#9;PSI&#9;JAVA://leetcode.IsSymmetric_101&#10;66&#9;PSI&#9;JAVA://leetcode.PlusOne_66&#10;69&#9;PSI&#9;JAVA://leetcode.MySqrt_69&#10;70&#9;PSI&#9;JAVA://leetcode.ClimbStairs_70&#10;Sim&#9;PSI&#9;JAVA://string.SimplifiedPath&#10;Simp&#9;PSI&#9;JAVA://string.SimplifiedPath&#10;74&#9;PSI&#9;JAVA://leetcode.SearchMatrix_74&#10;75&#9;PSI&#9;JAVA://leetcode.SortColors_75&#10;Win&#9;PSI&#9;JAVA://_9hash._3SmallestWindowString&#10;77&#9;PSI&#9;JAVA://leetcode.Combine_77&#10;78&#9;PSI&#9;JAVA://leetcode.SubSet_78&#10;79&#9;PSI&#9;JAVA://leetcode.ExistWord_79&#10;80&#9;PSI&#9;JAVA://leetcode.RemoveDuplicates2_80&#10;81&#9;PSI&#9;JAVA://leetcode.Search2_81" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590852885572" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590932327685" />
     <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/synparser" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -613,12 +609,13 @@
       <workItem from="1590537579688" duration="4912000" />
       <workItem from="1590630461634" duration="2716000" />
       <workItem from="1590758345056" duration="1955000" />
-      <workItem from="1590804811592" duration="5736000" />
+      <workItem from="1590804811592" duration="6050000" />
+      <workItem from="1590932097500" duration="242000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98143000" />
+    <option name="totallyTimeSpent" value="98699000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -633,7 +630,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21108742" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21321961" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -810,16 +807,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/classify/_9hash/_1LongestString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/classify/_9hash/_2LongestSonString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="87">
@@ -1152,6 +1139,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/p05/Rob_198.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <element signature="e#81#82#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/_90SubsetsWithDup.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="702">
@@ -1222,24 +1220,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/p05/Rob_198.java">
+    <entry file="file://$PROJECT_DIR$/src/p05/LargestRectangleArea.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        <state relative-caret-position="353">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
           <folding>
-            <element signature="e#81#82#0" expanded="true" />
-            <element signature="e#156#157#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/p05/LargestRectangleArea.java">
+    <entry file="file://$PROJECT_DIR$/src/p05/IsSymmetric_101.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="33" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="297">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
