@@ -1,4 +1,4 @@
-package top2020;
+package top2020.day0905;
 
 public class Leetcode41 {
     public int firstMissingPositive(int[] nums) {

@@ -1,6 +1,4 @@
-package top2020;
-
-import java.util.List;
+package top2020.day0905;
 
 public class Leetcode24 {
     public ListNode swapPairs(ListNode head) {
