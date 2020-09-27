@@ -1,5 +1,9 @@
 package top2020.day0905;
 
+/**
+ * 第一个缺失的正数
+ * 抽屉法
+ */
 public class Leetcode41 {
     public int firstMissingPositive(int[] nums) {
         for (int i = 0; i < nums.length; ++i) {

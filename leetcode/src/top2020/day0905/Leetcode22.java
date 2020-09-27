@@ -3,6 +3,9 @@ package top2020.day0905;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 括号生成
+ */
 public class Leetcode22 {
 
     List<String> res = new ArrayList<>();

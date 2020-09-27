@@ -3,6 +3,9 @@ package top2020.day0905;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 全排列
+ */
 public class Leetcode46 {
     public List<List<Integer>> permute(int[] nums) {
         List<List<Integer>> res = new ArrayList<>();

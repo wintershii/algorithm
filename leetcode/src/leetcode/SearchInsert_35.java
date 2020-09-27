@@ -28,4 +28,28 @@ public class SearchInsert_35 {
         }
         return nums.length;
     }
+
+
+    public int searchInsert2(int[] nums, int target) {
+        int left = 0;
+        int right = nums.length - 1;
+        int index = -1;
+        while (index == -1) {
+            int mid = (left + right) / 2;
+            if (target == nums[mid]) {
+                return mid;
+            } else if (target < nums[mid]) {
+                if (mid == 0 || target > nums[mid - 1]) {
+                    return mid;
+                }
+                right = mid - 1;
+            } else {
+                if (mid == nums.length - 1 || target < nums[mid + 1]) {
+                    return mid + 1;
+                }
+                left = mid + 1;
+            }
+        }
+        return index;
+    }
 }
